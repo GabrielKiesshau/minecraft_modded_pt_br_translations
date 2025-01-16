@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.mobsunscreen.title": "Protetor Solar para Mobs",
+  "text.autoconfig.mobsunscreen.option.general": "Geral",
+  "text.autoconfig.mobsunscreen.option.general.printIDs": "Imprimir IDs",
+  "text.autoconfig.mobsunscreen.option.general.protectAllMobs": "Proteger Todos os Mobs",
+  "text.autoconfig.mobsunscreen.option.general.mods": "mods",
+  "text.autoconfig.mobsunscreen.option.general.mobs": "mobs"
+}
