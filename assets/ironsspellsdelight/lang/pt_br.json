@@ -1,0 +1,31 @@
+{
+  "item.ironsspellsdelight.arcane_essence_stew": "Ensopado de Essência Arcana",
+  "item.ironsspellsdelight.arcane_apple": "Maçã Arcana",
+  "item.ironsspellsdelight.blood_vial_jem": "Gema de Frasco de Sangue",
+  "item.ironsspellsdelight.cinder_essence_stew": "Ensopado de Essência de Cinzas",
+
+  "item.ironsspellsdelight.arcane_dragonskin_stew": "Ensopado de Pele de Dragão Arcana",
+  "item.ironsspellsdelight.arcane_shake": "Milk-shake Arcano",
+  "item.ironsspellsdelight.blood_vial_cookie": "Biscoito de Frasco de Sangue",
+  "item.ironsspellsdelight.blood_vial_pie": "Torta de Frasco de Sangue",
+  "item.ironsspellsdelight.cinder_dragonskin_stew": "Ensopado de Pele de Dragão de Cinzas",
+  "item.ironsspellsdelight.divine_pearl_dough": "Massa de Pérola Divina",
+  "item.ironsspellsdelight.fire_ale_juice": "Suco de Cerveja de Fogo",
+  "item.ironsspellsdelight.lightning_jem": "Gema de Relâmpago",
+  "item.ironsspellsdelight.lightning_shake": "Milk-shake de Relâmpago",
+  "item.ironsspellsdelight.magic_dog_food": "Comida Mágica para Cães",
+  "item.ironsspellsdelight.magic_hamburger": "Hambúrguer Mágico",
+  "item.ironsspellsdelight.mix_essence_stew": "Ensopado de Essências Misturadas",
+  "item.ironsspellsdelight.pasta_with_energized_core": "Massa com Núcleo Energizado",
+  "item.ironsspellsdelight.permafrost_ice_cream": "Sorvete de Permafrost",
+  "item.ironsspellsdelight.permafrost_stew": "Ensopado de Permafrost",
+  "item.ironsspellsdelight.dragonskin_bowl": "Tigela de Pele de Dragão",
+  "item.ironsspellsdelight.arcane_knife": "Faca Arcana",
+
+  "block.ironsspellsdelight.blood_vial_cake": "Bolo de Frasco de Sangue",
+
+  "item.irons_spellbooks.magic_data_error": "",
+  "item.irons_spellbooks.not_enough_mana": "",
+  "item.irons_spellbooks.item.irons_spellbooks.cast_success": "",
+  "item.irons_spellbooks.item.irons_spellbooks.cast_failure": ""
+}

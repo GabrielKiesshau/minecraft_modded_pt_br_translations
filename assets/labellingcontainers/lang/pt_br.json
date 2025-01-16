@@ -1,0 +1,19 @@
+{
+  "block.labelable": "Use uma Impressora de Etiquetas para etiquetar este bloco",
+  "command.labelconfig.addition.success": "%s foi adicionado(a) à configuração com sucesso!",
+  "command.labelconfig.removal.success": "%s foi removido(a) da configuração com sucesso!",
+  "item.labellingcontainers.label_printer": "Impressora de Etiquetas",
+  "item.labellingcontainers.label_printer.gui_display_name": "Impressora de Etiquetas",
+  "item.labellingcontainers.label_printer.mode.copy": "Cópia",
+  "item.labellingcontainers.label_printer.mode.copy.error": "Você não pode copiar a etiqueta deste bloco!",
+  "item.labellingcontainers.label_printer.mode.copy.success": "Copiado(a) com Sucesso!",
+  "item.labellingcontainers.label_printer.mode.create": "Criação",
+  "item.labellingcontainers.label_printer.paper.error": "Você não tem papel suficiente!",
+  "item.labellingcontainers.label_printer.tooltip.description": "Usa papel para imprimir novas etiquetas",
+  "item.labellingcontainers.label_printer.tooltip.display_item": "Ícone: ",
+  "item.labellingcontainers.label_printer.tooltip.hidden": "(Pressione shift para mais informações)",
+  "item.labellingcontainers.label_printer.tooltip.label": "Etiqueta: ",
+  "item.labellingcontainers.label_printer.tooltip.mode": "Modo: ",
+  "item.labellingcontainers.label_printer.tooltip.none": "Nenhum(a)",
+  "item.labellingcontainers.label_printer.untaggable.error": "Você não pode adicionar uma etiqueta a este bloco!"
+}

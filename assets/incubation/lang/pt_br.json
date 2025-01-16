@@ -1,0 +1,15 @@
+{
+  "block.incubation.chicken_egg_crate": "Caixote de Ovos de Galinha",
+  "block.incubation.hay_chicken_nest": "Ninho de Galinha de Feno",
+  "block.incubation.hay_duck_nest": "Ninho de Pato de Feno",
+  "block.incubation.hay_nest": "Ninho de Feno",
+  "block.incubation.hay_turkey_nest": "Ninho de Peru de Feno",
+  "block.incubation.turtle_egg_crate": "Caixote de Ovos de Tartaruga",
+  "block.incubation.twig_chicken_nest": "Ninho de Galinha de Gravetos",
+  "block.incubation.twig_duck_nest": "Ninho de Pato de Gravetos",
+  "block.incubation.twig_nest": "Ninho de Gravetos",
+  "block.incubation.twig_turkey_nest": "Ninho de Peru de Gravetos",
+  "item.incubation.chicken_egg": "Ovo de Galinha",
+  "item.incubation.fried_egg": "Ovo Frito",
+  "item.incubation.scrambled_eggs": "Ovos Mexidos"
+}

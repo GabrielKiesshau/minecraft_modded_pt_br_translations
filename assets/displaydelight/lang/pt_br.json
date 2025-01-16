@@ -1,0 +1,6 @@
+{
+  "block.displaydelight.food_plate": "Prato de Comida",
+  "block.displaydelight.small_food_plate": "Prato de Comida Pequeno",
+  "item.displaydelight.tooltip.can_placed_on": "Pode ser colocado em: ",
+  "item.displaydelight.tooltip.displayable": "Pode ser colocado agachado"
+}

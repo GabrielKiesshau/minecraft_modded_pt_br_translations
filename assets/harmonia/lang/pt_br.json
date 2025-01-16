@@ -1,0 +1,8 @@
+{
+  "gui.harmonia.chunkloaded": "Chunk Carregado",
+  "gui.harmonia.claim_chunks": "Reivindicar Seleção",
+  "gui.harmonia.unclaim_chunks": "Cancelar Reivindicação da Seleção",
+  "gui.harmonia.admin_unclaim_chunks": "§c(Admin) Cancelar Reivindicação da Seleção",
+  "gui.harmonia.chunkload_chunks": "Carregar Seleção de Chunks",
+  "gui.harmonia.unchunkload_chunks": "Descarregar Seleção de Chunks"
+}

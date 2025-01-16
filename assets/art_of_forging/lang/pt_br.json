@@ -1,0 +1,1184 @@
+{
+	"art_of_forging.effect.decaying.name": "Decrepitude",
+	"art_of_forging.effect.decaying.tooltip": "Aplica um efeito de murchamento no alvo com potência de §e%s§r por §e%s segundos§r.",
+	"tetra.stats.art_of_forging:decaying": "Decrepitude",
+	"tetra.stats.art_of_forging:decaying.tooltip_short": "Aplica o efeito de murchamento",
+  
+	"art_of_forging.effect.stormcaller.name": "Invocador de Tempestades",
+	"art_of_forging.effect.stormcaller.tooltip": "Invoca §e%s raios§r simultaneamente ao acertar com uma chance de §e%s%%§r.",
+	"tetra.stats.art_of_forging:stormcaller": "Invocador de Tempestades",
+	"tetra.stats.art_of_forging:stormcaller.tooltip_short": "Invoca raios simultaneamente ao acertar",
+  
+	"art_of_forging.effect.evoking_maw.name": "Fauce Evocativa",
+	"art_of_forging.effect.evoking_maw.tooltip": "Invoca §e%s presas de evocador§r simultaneamente ao acertar.",
+	"tetra.stats.art_of_forging:evoking_maw": "Fauce Evocativa",
+	"tetra.stats.art_of_forging:evoking_maw.tooltip_short": "Invoca presas de evocador simultaneamente ao acertar",
+  
+	"art_of_forging.effect.life_steal.name": "Roubo de Vida",
+	"art_of_forging.effect.life_steal.tooltip": "Chance de recuperar §e%s de vida§r após um acerto bem-sucedido (chance de §e%s%%§r).",
+	"tetra.stats.art_of_forging:life_steal": "Roubo de Vida",
+	"tetra.stats.art_of_forging:life_steal.tooltip_short": "Chance de recuperar vida após um acerto bem-sucedido",
+  
+	"art_of_forging.effect.knockback.name": "Repulsão",
+	"art_of_forging.effect.knockback.tooltip": "Arremessa o alvo para trás em uma força adicional de §e%s§r (esse efeito também pode ser revertido para puxar alvos).",
+	"tetra.stats.art_of_forging:knockback": "Repulsão",
+	"tetra.stats.art_of_forging:knockback.tooltip_short": "Arremessa o alvo para trás em uma força adicional",
+  
+	"art_of_forging.effect.life_fiber_loss.name": "Perda de Fibra Vital",
+	"art_of_forging.effect.life_fiber_loss.tooltip": "Ao derrotar seu oponente, você recebe um bônus por §e%s segundos§r.",
+	"tetra.stats.art_of_forging:life_fiber_loss": "Perda de Fibra Vital",
+	"tetra.stats.art_of_forging:life_fiber_loss.tooltip_short": "Ao derrotar seu oponente, você recebe bônus",
+
+	"art_of_forging.effect.cavalry.name": "Cavalaria",
+	"art_of_forging.effect.cavalry.tooltip": "Causa §e%s de dano adicional§r enquanto estiver montado em uma entidade.",
+	"tetra.stats.art_of_forging:cavalry": "Cavalaria",
+	"tetra.stats.art_of_forging:cavalry.tooltip_short": "Causa dano adicional enquanto estiver montado em uma entidade",
+  
+	"art_of_forging.effect.dismounting.name": "Desmontar",
+	"art_of_forging.effect.dismounting.tooltip": "Causa §e%s de dano adicional§r em entidades montadas, com uma chance de §e%s%%§r de desmontá-las.",
+	"tetra.stats.art_of_forging:dismounting": "Desmontar",
+	"tetra.stats.art_of_forging:dismounting.tooltip_short": "Causa dano adicional em entidades montadas, com chance de desmontá-las",
+  
+	"art_of_forging.effect.dragon_mist.name": "Névoa Dracônica",
+	"art_of_forging.effect.dragon_mist.tooltip": "Uma névoa que dura §e%s segundos§r com uma chance de §e%s%%§r de ser invocada.",
+	"tetra.stats.art_of_forging:dragon_mist": "Névoa Dracônica",
+	"tetra.stats.art_of_forging:dragon_mist.tooltip_short": "Uma névoa que tem chance de ser invocada",
+  
+	"art_of_forging.effect.disorienting.name": "Desorientado",
+	"art_of_forging.effect.disorienting.tooltip": "Aplica lentidão, fraqueza e confusão com potência de §e%s§r, que duram §e%s segundos§r.",
+	"tetra.stats.art_of_forging:disorienting": "Desorientado",
+	"tetra.stats.art_of_forging:disorienting.tooltip_short": "Aplica lentidão, fraqueza e confusão com potência de §e%s§r, que duram §e%s segundos§r",
+  
+	"art_of_forging.effect.vengeance.name": "Vingança",
+	"art_of_forging.effect.vengeance.tooltip": "Você causa §e%s%% a mais de dano§r com a saúde em §e%s corações ou menos§r.",
+	"tetra.stats.art_of_forging:vengeance": "Vingança",
+	"tetra.stats.art_of_forging:vengeance.tooltip_short": "Você causa mais dano com a saúde baixa",
+  
+	"art_of_forging.effect.resolve.name": "Resolução",
+	"art_of_forging.effect.resolve.tooltip": "Você ganha força e resistência por §e%s segundos§r com a saúde em §e%s corações ou menos§r.",
+	"tetra.stats.art_of_forging:resolve": "Resolução",
+	"tetra.stats.art_of_forging:resolve.tooltip_short": "Você ganha força e resistência com a saúde baixa",
+
+	"art_of_forging.effect.devouring.name": "Maldição Devoradora",
+	"art_of_forging.effect.devouring.tooltip": "Se você não atacar nenhuma entidade por um período de tempo, seu item começará a consumir sua força vital.",
+	"tetra.stats.art_of_forging:devouring": "Maldição Devoradora",
+	"tetra.stats.art_of_forging:devouring.tooltip_short": "Se você não atacar nenhuma entidade por um período de tempo, seu item começará a consumir sua força vital",
+  
+	"art_of_forging.effect.infernal_rebuke.name": "Repulsão Infernal",
+	"art_of_forging.effect.infernal_rebuke.tooltip": "Incendeia inimigos por §e%s segundos§r e os arremessa para trás, com uma chance de §e%s%%§r de acontecer.",
+	"tetra.stats.art_of_forging:infernal_rebuke": "Repulsão Infernal",
+	"tetra.stats.art_of_forging:infernal_rebuke.tooltip_short": "Incendeia inimigos e os arremessa para trás, com uma chance de acontecer",
+  
+	"art_of_forging.effect.hubris.name": "Maldição da Hubris",
+	"art_of_forging.effect.hubris.tooltip": "Acima de 90% de vida, você causa §e%s de dano adicional§r. Porém, ao perder vida, o dano da sua arma diminui até menos da metade do dano original em 30% de vida ou menos.",
+	"tetra.stats.art_of_forging:hubris": "Maldição da Hubris",
+	"tetra.stats.art_of_forging:hubris.tooltip_short": "Com vida cheia você causa dano extra, porém, quanto menor sua vida, menos dano você causa",
+  
+	"art_of_forging.effect.slaughtering.name": "Massacre",
+	"art_of_forging.effect.slaughtering.tooltip": "Você causa §e%s de dano adicional§r quando seu alvo estiver acima de §e%s% de vida§r.",
+	"tetra.stats.art_of_forging:slaughtering": "Massacre",
+	"tetra.stats.art_of_forging:slaughtering.tooltip_short": "Você causa dano extra quando seu alvo estiver acima de uma certa quantidade de vida",
+  
+	"art_of_forging.effect.carnage.name": "Carnificina",
+	"art_of_forging.effect.carnage.tooltip": "Ao atacar seu alvo, você ganha um bônus de 10% de dano. Para cada ataque consecutivo, 10% a mais de dano é adicionado até 40%. Esse bônus é perdido após a morte.",
+	"tetra.stats.art_of_forging:carnage": "Carnificina",
+	"tetra.stats.art_of_forging:carnage.tooltip_short": "Ao atacar seu alvo, você ganha bônus de dano que aumenta a cada acerto até sua morte",
+  
+	"art_of_forging.effect.judgement.name": "Julgamento",
+	"art_of_forging.effect.judgement.tooltip": "Se o seu inimigo estiver abaixo de §e%s de vida§r, você tem uma chance de §e%s%%§r de matá-lo instantaneamente.",
+	"tetra.stats.art_of_forging:judgement": "Julgamento",
+	"tetra.stats.art_of_forging:judgement.tooltip_short": "Se o seu inimigo estiver abaixo de uma certa quantidade de vida, você tem a chance de matá-lo instantaneamente",
+
+	"art_of_forging.effect.retribution.name": "Retribuição",
+	"art_of_forging.effect.retribution.tooltip": "Causa §e%s de dano§r quando você é atacado, com uma chance de §e%s%%§r ferir seu atacante.",
+	"tetra.stats.art_of_forging:retribution": "Retribuição",
+	"tetra.stats.art_of_forging:retribution.tooltip_short": "Causa mais dano quando é atacado, com chance de ferir seu atacante",
+  
+	"art_of_forging.effect.esoteric_edge.name": "Fio Esotérico",
+	"art_of_forging.effect.esoteric_edge.tooltip": "§e%s%% do seu dano§r é convertido em dano mágico.",
+	"tetra.stats.art_of_forging:esoteric_edge": "Fio Esotérico",
+	"tetra.stats.art_of_forging:esoteric_edge.tooltip_short": "Uma porcentagem do seu dano é convertida em dano mágico",
+  
+	"art_of_forging.effect.feasting.name": "Banquetear",
+	"art_of_forging.effect.feasting.tooltip": "Recupera §e%s de fome§r, com uma chance de §e%s%%§r de funcionar.",
+	"tetra.stats.art_of_forging:feasting": "Banquetear",
+	"tetra.stats.art_of_forging:feasting.tooltip_short": "Recupera fome em uma certa quantidade com a chance de funcionar",
+  
+	"art_of_forging.effect.nano_fused.name": "Nano Fundido",
+	"art_of_forging.effect.nano_fused.tooltip": "Você tem uma chance de §e%s%%§r de obter itens alterados de certos mobs.",
+	"tetra.stats.art_of_forging:nano_fused": "Nano Fundido",
+	"tetra.stats.art_of_forging:nano_fused.tooltip_short": "Você tem a chance de obter itens alterados de certos mobs",
+  
+	"art_of_forging.effect.beheading.name": "Decapitação",
+	"art_of_forging.effect.beheading.tooltip": "Você tem uma chance de §e%s%%§r de dropar a cabeça de um mob ou jogador ao matar.",
+	"tetra.stats.art_of_forging:beheading": "Decapitação",
+	"tetra.stats.art_of_forging:beheading.tooltip_short": "Você tem a chance de dropar a cabeça de um mob ou jogador ao matar",
+  
+	"art_of_forging.effect.soul_charged.name": "Carregado de Alma",
+	"art_of_forging.effect.soul_charged.tooltip": "Ao matar uma entidade, você ganha 1 ponto de carga de alma. Ao atingir 5 pontos, você libera uma onda de dano de fogo e magia em um raio ao seu redor. Requer nível de habilidade 2 ou superior.",
+	"tetra.stats.art_of_forging:soul_charged": "Carregado de Alma",
+	"tetra.stats.art_of_forging:soul_charged.tooltip_short": "Ao matar uma entidade, você ganha 1 ponto de carga. Ao atingir o máximo, libera uma onda de dano de fogo e magia",
+
+	"art_of_forging.effect.sonic_shock.name": "Choque Sônico",
+	"art_of_forging.effect.sonic_shock.tooltip": "Dispara um ataque de choque sônico que causa §e%s de dano§r ao alvo.",
+	"tetra.stats.art_of_forging:sonic_shock": "Choque Sônico",
+	"tetra.stats.art_of_forging:sonic_shock.tooltip_short": "Dispara um ataque de choque sônico",
+  
+	"art_of_forging.effect.flame_protection.name": "Proteção contra Fogo",
+	"art_of_forging.effect.flame_protection.tooltip": "Concede §e%s de resistência ao fogo§r ao equipar.",
+	"tetra.stats.art_of_forging:flame_protection": "Proteção contra Fogo",
+	"tetra.stats.art_of_forging:flame_protection.tooltip_short": "Concede resistência ao fogo ao equipar",
+  
+	"art_of_forging.effect.arcane_protection.name": "Proteção Arcana",
+	"art_of_forging.effect.arcane_protection.tooltip": "Reduz o dano mágico recebido em §e%s§r ao equipar.",
+	"tetra.stats.art_of_forging:arcane_protection": "Proteção Arcana",
+	"tetra.stats.art_of_forging:arcane_protection.tooltip_short": "Reduz o dano mágico recebido ao equipar",
+  
+	"art_of_forging.effect.strength_infused.name": "Infundido com Força",
+	"art_of_forging.effect.strength_infused.tooltip": "Concede §e%s de força§r ao equipar.",
+	"tetra.stats.art_of_forging:strength_infused": "Infundido com Força",
+	"tetra.stats.art_of_forging:strength_infused.tooltip_short": "Concede força ao equipar",
+  
+	"art_of_forging.effect.healing_infused.name": "Infundido com Cura",
+	"art_of_forging.effect.healing_infused.tooltip": "Concede regeneração §e%s§r ao equipar.",
+	"tetra.stats.art_of_forging:healing_infused": "Infundido com Cura",
+	"tetra.stats.art_of_forging:healing_infused.tooltip_short": "Concede regeneração ao equipar",
+  
+	"art_of_forging.effect.karma_infused.name": "Infundido com Karma",
+	"art_of_forging.effect.karma_infused.tooltip": "Com base no que você matou, você receberá sorte ou azar por §e%s§r segundos ao equipar, cada um com potência crescente de acordo com suas ações.",
+	"tetra.stats.art_of_forging:karma_infused": "Infundido com Karma",
+	"tetra.stats.art_of_forging:karma_infused.tooltip_short": "Baseado no que você matou, você receberá sorte ou azar",
+
+	"art_of_forging.effect.haste_infused.name": "Infundido com Rapidez",
+	"art_of_forging.effect.haste_infused.tooltip": "Concede rapidez §e%s§r ao equipar.",
+	"tetra.stats.art_of_forging:haste_infused": "Infundido com Rapidez",
+	"tetra.stats.art_of_forging:haste_infused.tooltip_short": "Concede rapidez ao equipar",
+  
+	"art_of_forging.effect.third_sight.name": "Marca do Caçador",
+	"art_of_forging.effect.third_sight.tooltip": "Marca qualquer entidade viva que você machucou com brilho por §e%s§r segundos.",
+	"tetra.stats.art_of_forging:third_sight": "Marca do Caçador",
+	"tetra.stats.art_of_forging:third_sight.tooltip_short": "Marca qualquer entidade viva que você machucou com brilho",
+  
+	"art_of_forging.effect.conquering.name": "Conquistador",
+	"art_of_forging.effect.conquering.tooltip": "Segurar esta arma concede força a você, enquanto enfraquece seus oponentes ao acertá-los. Ao atingir o número máximo de mortes, você ganha força adicional ao custo de redução da vida máxima.",
+	"tetra.stats.art_of_forging:conquering": "Conquistador",
+	"tetra.stats.art_of_forging:conquering.tooltip_short": "Segurar esta arma concede força a você, enquanto enfraquece seus oponentes ao acertá-los",
+  
+	"art_of_forging.effect.subjugation.name": "Subjugação",
+	"art_of_forging.effect.subjugation.tooltip": "Atacar continuamente um alvo por 10 acertos consecutivos permite que você libere um ataque carregado e direcionado, causando cegueira, lentidão e fraqueza ao alvo. Esse ataque também te cura.",
+	"tetra.stats.art_of_forging:subjugation": "Subjugação",
+	"tetra.stats.art_of_forging:subjugation.tooltip_short": "Atacar continuamente um alvo permite liberar um ataque que aplica efeitos negativos e te cura",
+  
+	"art_of_forging.effect.goliath_slayer.name": "Assassino de Golias",
+	"art_of_forging.effect.goliath_slayer.tooltip": "Causa §e%s§r a mais de dano em chefes ou entidades similares a chefes.",
+	"tetra.stats.art_of_forging:goliath_slayer": "Assassino de Golias",
+	"tetra.stats.art_of_forging:goliath_slayer.tooltip_short": "Causa mais dano em chefes ou entidades similares a chefes",
+  
+	"itemGroup.art_of_forging_tab": "Arte da Forja",
+	"creativetab.art_of_forging": "Arte da Forja",
+
+
+
+	"effect.art_of_forging.devouring": "Devorado",
+	"effect.art_of_forging.evoking_maw": "Fauce Evocativa",
+	"effect.art_of_forging.defuse_creeper": "Desarmado",
+	"effect.art_of_forging.mortal_wounds": "Feridas Mortais",
+	"effect.art_of_forging.targeted": "Alvejado",
+  
+	"item.art_of_forging.curious_artifact": "Artefato Curioso",
+  
+	"item.art_of_forging.resonant_alloy": "Liga Ressonante",
+	"item.art_of_forging.forged_steel_ingot": "Lingote de Aço Forjado",
+	"item.art_of_forging.vobrite_crystal": "Cristal de Vobrita",
+	"item.art_of_forging.vobrivium_ingot": "Lingote de Vobrivium",
+	"item.art_of_forging.endsteel_ingot": "Lingote de Aço do Fim",
+  
+	"item.art_of_forging.life_fiber": "Fibras Vitais",
+	"item.art_of_forging.fang_charm": "Amuleto de Presa de Evocador",
+	"item.art_of_forging.sigil_of_eden": "Sigilo do Éden",
+	"item.art_of_forging.enigmatic_construct": "Construto Enigmático",
+	"item.art_of_forging.ancient_axe": "Machado Antigo",
+	"item.art_of_forging.ancient_blade": "Lâmina Antiga",
+	"item.art_of_forging.ancient_flail": "Mangual Antigo",
+	"item.art_of_forging.demonic_axe": "Machado Aniquilador",
+	"item.art_of_forging.demonic_blade": "Lâmina Cataclísmica",
+	"item.art_of_forging.demonic_flail": "Mangual Doloroso",
+	"item.art_of_forging.rending_scissor_red": "Tesoura Dilacerante [Vermelha]",
+	"item.art_of_forging.rending_scissor_purple": "Tesoura Dilacerante [Roxa]",
+	"item.art_of_forging.rending_scissor_complete": "Tesoura Dilacerante",
+
+	"item.art_of_forging.nano_insectoid": "Nano-Insetoide",
+	"item.art_of_forging.encoded_canister": "Recipiente Codificado",
+	"item.art_of_forging.esoteric_codex": "Códice Esotérico",
+	"item.art_of_forging.mark_of_the_architect": "Apócrifo do Arquiteto",
+	"item.art_of_forging.shockwave_chamber": "Câmara de Onda de Choque",
+	"item.art_of_forging.devils_soul_gem": "Orbe Sombria",
+  
+	"item.art_of_forging.dragon_soul": "Alma de Dragão",
+	"item.art_of_forging.shards_of_malice": "Fragmentos de Malícia",
+	"item.art_of_forging.potent_mixture": "Mistura Potente",
+	"item.art_of_forging.heart_of_ender": "Coração do Ender",
+	"item.art_of_forging.eerie_shard": "Fragmento Assustador",
+	"item.art_of_forging.soul_ember": "Brasa de Alma",
+	"item.art_of_forging.fragment_of_eden": "Fragmento do Éden",
+  
+	"item.enigmatic_construct.tooltip": "Uma estranha maquinação construída a partir da alma mutilada do Dragão Ender. Parece errado.",
+	"item.life_fiber.tooltip": "Uma réplica sintética do original.",
+	"item.ancient_item.tooltip": "Uma arma forjada há muito tempo. Ela requer energia maliciosa para ser reativada.",
+	"item.sigil_of_eden.tooltip": "O que você fez.",
+  
+	"tetra.material.forged_steel_ingot": "Aço Forjado",
+	"tetra.material.forged_steel_ingot.prefix": "Aço Forjado",
+  
+	"tetra.material.vobrivium_ingot": "Vobrivium",
+	"tetra.material.vobrivium_ingot.prefix": "Vobrivium",
+
+	"tetra.material.vobrite_crystal": "Cristal de Vobrita",
+	"tetra.material.vobrite_crystal.prefix": "§bCristal de Vobrita§r",
+  
+	"tetra.material.sigil_of_eden": "Sigilo do Éden",
+	"tetra.material.sigil_of_eden.prefix": "§4Sigilo do Éden§r",
+  
+	"tetra.material.fang_charm": "Amuleto de Presa",
+	"tetra.material.fang_charm.prefix": "§eAmuleto de Presa§r",
+  
+	"tetra.material.endsteel_ingot": "Aço do Fim",
+	"tetra.material.endsteel_ingot.prefix": "Aço do Fim",
+  
+	"tetra.material.life_fiber": "Fibra Vital",
+	"tetra.material.life_fiber.prefix": "§cFibra Vital§r",
+  
+	"tetra.material.socket_heart_of_ender": "Coração do Ender",
+	"tetra.material.socket_heart_of_ender.prefix": "§dCoração do Ender§r",
+  
+	"tetra.material.shard_of_malice": "Fragmento de Malícia",
+	"tetra.material.shard_of_malice.prefix": "§cFragmento de Malícia§r",
+  
+	"tetra.material.socket_shard_of_malice": "Fragmento de Malícia",
+	"tetra.material.socket_shard_of_malice.prefix": "§cFragmento de Malícia§r",
+  
+	"tetra.slot.artifact/casing": "Revestimento",
+	"tetra.slot.artifact/internal": "Interno",
+	"tetra.slot.artifact/attachment": "Acessório",
+
+
+
+	"tetra/schematic/sword/rapier_blade.name": "Lâmina de Rapier",
+	"tetra/schematic/sword/rapier_blade.description": "Substitui a lâmina atual da espada por uma lâmina de rapier, uma lâmina elegante.\n\nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/sword/rapier_blade.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/rapier_blade.item_name": "Rapier",
+	"tetra.module.sword/rapier_blade.name": "Rapier",
+	"tetra.module.sword/rapier_blade.description": "Uma lâmina leve, veloz e elegante.",
+	"tetra.module.sword/rapier_blade.material_name": "Rapier de %s",
+	"tetra.module.sword/rapier_blade.prefix": "%s",
+  
+	"tetra/schematic/sword/flamberge/flamberge_blade.name": "Lâmina Flamberge",
+	"tetra/schematic/sword/flamberge/flamberge_blade.description": "Substitui a lâmina atual da espada por uma flamberge.\n\nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/sword/flamberge/flamberge_blade.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/flamberge_blade.item_name": "Flamberge",
+	"tetra.module.sword/flamberge_blade.name": "Flamberge",
+	"tetra.module.sword/flamberge_blade.description": "Uma lâmina ondulada, porém poderosa.",
+	"tetra.module.sword/flamberge_blade.material_name": "Flamberge de %s",
+	"tetra.module.sword/flamberge_blade.prefix": "%s",
+  
+	"tetra/schematic/sword/crucible/crucible_blade.name": "Lâmina Crisol §c§r",
+	"tetra/schematic/sword/crucible/crucible_blade.description": "Substitui a lâmina atual da espada por uma lâmina crisol.\n\nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/sword/crucible/crucible_blade.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/crucible_blade.item_name": "Crisol",
+	"tetra.module.sword/crucible_blade.name": "Crisol",
+	"tetra.module.sword/crucible_blade.description": "Rasgue e dilacere até o fim.",
+	"tetra.module.sword/crucible_blade.material_name": "Crisol de %s",
+	"tetra.module.sword/crucible_blade.prefix": "%s",
+
+	"tetra/schematic/double/tomahawk/tomahawk.name": "Cabeça de Tomahawk",
+	"tetra/schematic/double/tomahawk/tomahawk.description": "Uma cabeça de machado tomahawk. Usada para arremesso.\n\nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/double/tomahawk/tomahawk.slot1": "Material da cabeça",
+  
+	"tetra.module.double/tomahawk.item_name": "Tomahawk",
+	"tetra.module.double/tomahawk.name": "Cabeça de Tomahawk",
+	"tetra.module.double/tomahawk.description": "Uma cabeça de machado tomahawk, pode ser arremessada em inimigos para atacá-los",
+	"tetra.module.double/tomahawk.material_name": "Tomahawk de %s",
+	"tetra.module.double/tomahawk.prefix": "%s",
+  
+	"tetra/schematic/single/head/halberd_head/halberd_head.name": "Cabeça de Alabarda",
+	"tetra/schematic/single/head/halberd_head/halberd_head.description": "Forja uma cabeça de alabarda com o material fornecido. Alabardas são ideais para armas corpo a corpo à distância, concedendo atordoamento e penetração de armadura.\n\nMaterial §fdureza§r aumenta o §fdano§r.\nMaterial §fdensidade§r aumenta levemente o §fdano§r e diminui levemente a §fvelocidade de ataque§r.",
+	"tetra/schematic/single/head/halberd_head/halberd_head.slot1": "Material da cabeça",
+  
+	"tetra.module.single/halberd_head.item_name": "Alabarda",
+	"tetra.module.single/halberd_head.name": "Cabeça de Alabarda",
+	"tetra.module.single/halberd_head.description": "Uma cabeça de alabarda, uma arma corpo a corpo ideal para o combate à distância que concede atordoamento e penetração de armadura.",
+	"tetra.module.single/halberd_head.material_name": "Alabarda de %s",
+	"tetra.module.single/halberd_head.prefix": "%s",
+  
+	"tetra/schematic/sword/saber_blade.name": "Lâmina de Sabre",
+	"tetra/schematic/sword/saber_blade.description": "Substitui a lâmina atual da espada por um sabre, uma lâmina majestosa e militar.\n\nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/sword/saber_blade.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/saber_blade.item_name": "Sabre",
+	"tetra.module.sword/saber_blade.name": "Sabre",
+	"tetra.module.sword/saber_blade.description": "Uma lâmina majestosa e militar.",
+	"tetra.module.sword/saber_blade.material_name": "Sabre de %s",
+	"tetra.module.sword/saber_blade.prefix": "%s",
+
+	"tetra/schematic/sword/key_guard.name": "Guarda",
+	"tetra/schematic/sword/key_guard.description": "Crie uma guarda que protege a mão, além de dar ao jogador um moxxy especial.\n\nMaterial §fdureza§r e §fflexibilidade§r aumentam a quantidade de armadura.",
+	"tetra/schematic/sword/key_guard.slot1": "Material da guarda",
+  
+	"tetra.module.sword/key_guard.name": "Guarda",
+	"tetra.module.sword/key_guard.description": "Uma guarda que protege a mão e dá ao jogador um moxxy especial em sua atitude.",
+	"tetra.module.sword/key_guard.material_name": "Guarda de %s",
+  
+	"tetra/schematic/single/head/mace_head/mace_head.name": "Cabeça de Maça",
+	"tetra/schematic/single/head/mace_head/mace_head.description": "Forja uma cabeça de maça com o material fornecido. Maças são armas corpo a corpo fortes, atordoando inimigos e esmagando armaduras.\n\nMaterial §fdureza§r aumenta o §fdano§r.\nMaterial §fdensidade§r aumenta levemente o §fdano§r e diminui levemente a §fvelocidade de ataque§r.",
+	"tetra/schematic/single/head/mace_head/mace_head.slot1": "Material da cabeça",
+  
+	"tetra.module.single/mace_head.item_name": "Maça",
+	"tetra.module.single/mace_head.name": "Cabeça de Maça",
+	"tetra.module.single/mace_head.description": "Uma cabeça de maça, uma arma corpo a corpo forte, capaz de atordoar inimigos e esmagar armaduras.",
+	"tetra.module.single/mace_head.material_name": "Maça de %s",
+	"tetra.module.single/mace_head.prefix": "%s",
+  
+	"tetra.module.bow/dreadnought_stave.item_name": "Arco Dreadnought",
+	"tetra.module.bow/dreadnought_stave.name": "Verga Dreadnought",
+	"tetra.module.bow/dreadnought_stave.description": "Uma verga de arco Dreadnought. Vergas Dreadnought são mais poderosas do que vergas de arco típicas.",
+	"tetra.module.bow/dreadnought_stave.material_name": "Verga Dreadnought de %s",
+	"tetra.module.bow/dreadnought_stave.prefix": "%s",
+  
+	"tetra/schematic/bow/stave/dreadnought_stave.name": "Verga Dreadnought",
+	"tetra/schematic/bow/stave/dreadnought_stave.description": "Substitui a verga por uma verga Dreadnought feita com os materiais fornecidos. Vergas Dreadnought são mais poderosas do que vergas de arco típicas.\n\nMaterial §fdureza§r aumenta a §fforça§r e o §ftempo de puxada§r.\nMaterial §fflexibilidade§r aumenta a §fforça§r e diminui levemente o §ftempo de puxada§r.",
+	"tetra/schematic/bow/stave/dreadnought_stave.slot1": "Material",
+  
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.name": "Picareta Verme de Vazio",
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.description": "Uma picareta feita com as mandíbulas do Verme de Vazio, nada pessoal.",
+	"tetra/schematic/double/void_worm_pickaxe/void_worm_pickaxe.slot1": "Picareta Verme de Vazio",
+
+	"tetra.module.double/void_worm_pickaxe.item_name": "Picareta Verme de Vazio",
+	"tetra.module.double/void_worm_pickaxe.name": "Picareta Verme de Vazio",
+	"tetra.module.double/void_worm_pickaxe.description": "Uma picareta feita com as mandíbulas do Verme de Vazio, nada pessoal.",
+	"tetra.variant.void_worm_pickaxe/void_worm_pickaxe": "Picareta Verme de Vazio",
+  
+	"tetra/schematic/sword/void_worm_cleaver.name": "Cortador de Verme de Vazio",
+	"tetra/schematic/sword/void_worm_cleaver.description": "Uma lâmina feita da mandíbula do Devorador - quer dizer - Verme de Vazio.",
+	"tetra/schematic/sword/void_worm_cleaver.slot1": "Cortador de Verme de Vazio",
+  
+	"tetra.module.sword/void_worm_cleaver.item_name": "Cortador de Verme de Vazio",
+	"tetra.module.sword/void_worm_cleaver.name": "Cortador de Verme de Vazio",
+	"tetra.module.sword/void_worm_cleaver.description": "VOCÊ NÃO PODE AÇOUGUAR UM DEUS.",
+	"tetra.variant.void_worm_cleaver/void_worm_cleaver": "Cortador de Verme de Vazio",
+  
+	"tetra/schematic/sword/shifting_blade.name": "§dLâmina Mutante§r",
+	"tetra/schematic/sword/shifting_blade.description": "Uma lâmina estranha feita de blocos de ametista. Suas propriedades lhe dão um toque mágico.",
+	"tetra/schematic/sword/shifting_blade.slot1": "§dLâmina Mutante§r",
+  
+	"tetra.module.sword/shifting_blade.item_name": "§dLâmina Mutante§r",
+	"tetra.module.sword/shifting_blade.name": "§dLâmina Mutante§r",
+	"tetra.module.sword/shifting_blade.description": "Uma lâmina estranha feita de blocos de ametista. Suas propriedades lhe dão um toque mágico.",
+	"tetra.variant.shifting_blade/shifting_blade": "§dLâmina Mutante§r",
+  
+	"tetra/schematic/sword/bastard_blade.name": "Lâmina Bastarda",
+	"tetra/schematic/sword/bastard_blade.description": "Substitui a lâmina atual da espada por uma lâmina bastarda, uma espada prática.\n \nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/sword/bastard_blade.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/bastard_blade.item_name": "Lâmina Bastarda",
+	"tetra.module.sword/bastard_blade.name": "Lâmina Bastarda",
+	"tetra.module.sword/bastard_blade.description": "Uma lâmina prática.",
+	"tetra.module.sword/bastard_blade.material_name": "Lâmina Bastarda de %s",
+	"tetra.module.sword/bastard_blade.prefix": "%s",
+
+	"tetra/schematic/sword/executioner_blade.name": "Lâmina de Executor",
+	"tetra/schematic/sword/executioner_blade.description": "Substitui a lâmina atual da espada por uma lâmina de executor, uma espada formidável.\n \nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/sword/executioner_blade.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/executioner_blade.item_name": "Lâmina de Executor",
+	"tetra.module.sword/executioner_blade.name": "Lâmina de Executor",
+	"tetra.module.sword/executioner_blade.description": "Uma espada formidável.",
+	"tetra.module.sword/executioner_blade.material_name": "Lâmina de Executor de %s",
+	"tetra.module.sword/executioner_blade.prefix": "%s",
+  
+	"tetra/schematic/sword/rending_scissor_red.name": "§4Tesoura Cortante [Vermelha]§r",
+	"tetra/schematic/sword/rending_scissor_red.description": "Uma lâmina de tesoura feita de Fibras da Vida endurecidas.",
+	"tetra/schematic/sword/rending_scissor_red.slot1": "Tesoura Cortante",
+  
+	"tetra.module.sword/rending_scissor_red.item_name": "Tesoura Cortante",
+	"tetra.module.sword/rending_scissor_red.name": "Tesoura Cortante",
+	"tetra.module.sword/rending_scissor_red.description": "Uma lâmina de tesoura feita de Fibras da Vida endurecidas.",
+	"tetra.variant.rending_scissor_red/rending_scissor_red": "§4Tesoura Cortante [Vermelha]§r",
+  
+	"tetra/schematic/sword/rending_scissor_purple.name": "§5Tesoura Cortante [Roxa]§r",
+	"tetra/schematic/sword/rending_scissor_purple.description": "Uma lâmina de tesoura feita de Fibras da Vida endurecidas.",
+	"tetra/schematic/sword/rending_scissor_purple.slot1": "Tesoura Cortante",
+  
+	"tetra.module.sword/rending_scissor_purple.item_name": "Tesoura Cortante",
+	"tetra.module.sword/rending_scissor_purple.name": "Tesoura Cortante",
+	"tetra.module.sword/rending_scissor_purple.description": "Uma lâmina de tesoura feita de Fibras da Vida endurecidas.",
+	"tetra.variant.rending_scissor_purple/rending_scissor_purple": "§5Tesoura Cortante [Roxa]§r",
+  
+	"tetra/schematic/sword/katana/katana_blade.name": "Lâmina Katana",
+	"tetra/schematic/sword/katana/katana_blade.description": "Substitui a lâmina atual da espada por uma lâmina katana, uma espada honrosa.\n \nMaterial §fdureza§r aumenta o §fdano§r.",
+	"tetra/schematic/sword/katana/katana_blade.slot1": "Material da lâmina",
+
+	"tetra.module.sword/katana_blade.item_name": "Katana",
+	"tetra.module.sword/katana_blade.name": "Katana",
+	"tetra.module.sword/katana_blade.description": "Uma lâmina honrosa.",
+	"tetra.module.sword/katana_blade.material_name": "%s katana",
+	"tetra.module.sword/katana_blade.prefix": "%s",
+  
+	"tetra/schematic/shield/plate/kite.name": "Placa Escudo Kite",
+	"tetra/schematic/shield/plate/kite.description": "Crie uma placa de escudo kite. Escudos kite podem bloquear indefinidamente sem tempo de recarga e têm um tempo de recarga de habilidade menor que um escudo de torre.",
+	"tetra/schematic/shield/plate/kite.slot1": "Material",
+  
+	"tetra.module.shield/kite.item_name": "Escudo Kite",
+	"tetra.module.shield/kite.name": "Escudo Kite",
+	"tetra.module.shield/kite.description": "Um escudo longo e fino que pode bloquear indefinidamente sem tempo de recarga.",
+	"tetra.module.shield/kite.material_name": "Escudo Kite de %s",
+	"tetra.module.shield/kite.prefix": "%s",
+  
+	"tetra/schematic/single/head/cane_head/cane_head.name": "Bengala",
+	"tetra/schematic/single/head/cane_head/cane_head.description": "Forja a cabeça de uma bengala com o material fornecido. Bengalas são uma ferramenta versátil que aumenta a velocidade de movimento para viagem.\n\nMaterial §fdureza§r aumenta o §fdano§r.\nMaterial §fdensidade§r aumenta levemente o §fdano§r e diminui levemente a §fvelocidade de ataque§r.",
+	"tetra/schematic/single/head/cane_head/cane_head.slot1": "Material da cabeça",
+  
+	"tetra.module.single/cane_head.item_name": "Bengala",
+	"tetra.module.single/cane_head.name": "Bengala",
+	"tetra.module.single/cane_head.description": "Uma bengala, uma ferramenta utilitária versátil usada para auxiliar na movimentação. Segurá-la permite aumentar sua velocidade de movimento para viagem.",
+	"tetra.module.single/cane_head.material_name": "Bengala de %s",
+	"tetra.module.single/cane_head.prefix": "%s",
+  
+	"tetra/schematic/crossbow/stave/burst_stave.name": "Verga Rajada",
+	"tetra/schematic/crossbow/stave/burst_stave.description": "Uma verga de besta feita de um estabilizador planar. Esta verga pode disparar várias flechas de uma vez, além de puxar entidades em sua direção.",
+	"tetra/schematic/crossbow/stave/burst_stave.slot1": "Verga Rajada",
+
+	"tetra.module.crossbow/burst_stave.item_name": "Verga Rajada",
+	"tetra.module.crossbow/burst_stave.name": "Verga Rajada",
+	"tetra.module.crossbow/burst_stave.description": "Uma verga de besta feita de um estabilizador planar. Esta verga pode disparar várias flechas de uma vez, além de puxar entidades em sua direção.",
+	"tetra.variant.burst_stave/burst_stave": "Verga Rajada",
+  
+	"tetra/schematic/single/head/quarter_staff_head/quarter_staff_head.name": "Cajado",
+	"tetra/schematic/single/head/quarter_staff_head/quarter_staff_head.description": "Forja um cajado com o material fornecido. Cajados são bons para combate corpo a corpo, permitindo ataques rápidos e a habilidade de bloquear.\n \nMaterial §fdureza§r aumenta o §fdamage§r.\nMaterial §fdensidade§r aumenta levemente o §fdamage§r e diminui levemente a §fattack speed§r.",
+	"tetra/schematic/single/head/quarter_staff_head/quarter_staff_head.slot1": "Material da cabeça",
+  
+	"tetra.module.single/quarter_staff_head.item_name": "Cajado",
+	"tetra.module.single/quarter_staff_head.name": "Cajado",
+	"tetra.module.single/quarter_staff_head.description": "Um cajado usado para combate corpo a corpo para ataques rápidos e habilidade de bloquear. Ele também pode atordoar oponentes por um curto período de tempo.",
+	"tetra.module.single/quarter_staff_head.material_name": "Cajado de %s",
+	"tetra.module.single/quarter_staff_head.prefix": "%s",
+  
+	"tetra.module.bow/compound_string.name": "Corda composta",
+	"tetra.module.bow/compound_string.description": "Uma corda composta. É mais poderosa do que as cordas de arco típicas.",
+	"tetra.module.bow/compound_string.material_name": "Corda composta de %s",
+  
+	"tetra/schematic/bow/string/compound_string.name": "Corda composta",
+	"tetra/schematic/bow/string/compound_string.description": "Substitui a corda atual por uma corda composta criada a partir dos materiais fornecidos. Cordas compostas são mais poderosas do que cordas de arco normais. A corda do arco é a principal fonte de integridade para arcos.",
+	"tetra/schematic/bow/string/compound_string.slot1": "Material",
+  
+	"tetra.module.crossbow/dreadnought_cross_stave.item_name": "Besta Dreadnought",
+	"tetra.module.crossbow/dreadnought_cross_stave.name": "Verga Dreadnought",
+	"tetra.module.crossbow/dreadnought_cross_stave.description": "Uma verga de besta dreadnought. Vergas Dreadnought são mais poderosas do que vergas de besta típicas.",
+	"tetra.module.crossbow/dreadnought_cross_stave.material_name": "Verga Dreadnought de %s",
+	"tetra.module.crossbow/dreadnought_cross_stave.prefix": "%s",
+
+	"tetra/schematic/crossbow/stave/dreadnought_cross_stave.name": "Verga Dreadnought",
+	"tetra/schematic/crossbow/stave/dreadnought_cross_stave.description": "Substitui a verga por uma verga dreadnought criada a partir dos materiais fornecidos. Vergas Dreadnought são mais poderosas do que vergas de besta típicas.",
+	"tetra/schematic/crossbow/stave/dreadnought_cross_stave.slot1": "Material",
+  
+	"tetra/schematic/crossbow/socket.name": "Engaste",
+	"tetra/schematic/crossbow/socket.description": "Solde uma besta colocando cuidadosamente gemas na verga, fornecendo diferentes efeitos dependendo da gema.",
+	"tetra/schematic/crossbow/socket.slot1": "Gema",
+  
+	"tetra.module.crossbow/socket.name": "Engaste",
+	"tetra.module.crossbow/socket.description": "Uma gema, soldada cuidadosamente na verga da besta. A gema é encantada e fornece benefícios mágicos ao usuário da besta.",
+	"tetra.module.crossbow/socket.material_name": "Engaste [%s]",
+  
+	"tetra.module.crossbow/compound_cross_string.name": "Corda composta",
+	"tetra.module.crossbow/compound_cross_string.description": "Uma corda composta. É mais poderosa do que as cordas de arco típicas.",
+	"tetra.module.crossbow/compound_cross_string.material_name": "Corda composta de %s",
+  
+	"tetra/schematic/crossbow/string/compound_cross_string.name": "Corda composta",
+	"tetra/schematic/crossbow/string/compound_cross_string.description": "Substitui a corda atual por uma corda composta criada a partir dos materiais fornecidos. Cordas compostas são mais poderosas do que cordas de arco normais. A corda do arco é a principal fonte de integridade para arcos.",
+	"tetra/schematic/crossbow/string/compound_cross_string.slot1": "Material",
+  
+	"tetra/schematic/sword/echo_fuller.name": "Reperfurador de Eco",
+	"tetra/schematic/sword/echo_fuller.description": "Um reforçador feito de um fragmento de eco. Pode espalhar contaminação Sculk.",
+	"tetra/schematic/sword/echo_fuller.slot1": "Reperfurador de Eco",
+  
+	"tetra.module.sword/echo_fuller.name": "§1Reperfurador de Eco§r",
+	"tetra.module.sword/echo_fuller.description": "Um reforçador feito de um fragmento de eco. Pode espalhar contaminação Sculk.",
+	"tetra.variant.echo_fuller/echo_fuller": "§1Reperfurador de Eco§r",
+  
+	"tetra/schematic/sword/euclidean_dagger.name": "§6Adaga Euclidiana§r",
+	"tetra/schematic/sword/euclidean_dagger.description": "Uma adaga ancestral forjada a partir de um fragmento do Éden. A noite te pertence.",
+	"tetra/schematic/sword/euclidean_dagger.slot1": "§6Adaga Euclidiana§r",
+
+	"tetra.module.sword/euclidean_dagger.item_name": "§6Adaga Euclidiana§r",
+	"tetra.module.sword/euclidean_dagger.name": "§6Adaga Euclidiana§r",
+	"tetra.module.sword/euclidean_dagger.description": "Uma adaga ancestral forjada a partir de um fragmento do Éden. A noite te pertence.",
+	"tetra.variant.euclidean_dagger/euclidean_dagger": "§6Adaga Euclidiana§r",
+  
+	"tetra/schematic/double/annihilator_axe/annihilator_axe.name": "§4Aniquilador§r",
+	"tetra/schematic/double/annihilator_axe/annihilator_axe.description": "Uma cabeça de machado forjada a partir de essência demoníaca solidificada. Anseia por sangue.",
+	"tetra/schematic/double/annihilator_axe/annihilator_axe.slot1": "§4Aniquilador§r",
+  
+	"tetra.module.double/annihilator_axe.item_name": "§4Aniquilador§r",
+	"tetra.module.double/annihilator_axe.name": "§4Cabeça de Machado Aniquilador§r",
+	"tetra.module.double/annihilator_axe.description": "Uma cabeça de machado forjada a partir de essência demoníaca solidificada. Anseia por sangue.",
+	"tetra.variant.annihilator_axe/annihilator_axe": "§cAniquilador§r",
+  
+	"tetra/schematic/sword/cataclysm_blade/cataclysm_blade.name": "§4Cataclismo§r",
+	"tetra/schematic/sword/cataclysm_blade/cataclysm_blade.description": "Uma lâmina forjada a partir de essência demoníaca solidificada. Anseia por sangue.",
+	"tetra/schematic/sword/cataclysm_blade/cataclysm_blade.slot1": "§4Cataclismo§r",
+  
+	"tetra.module.sword/cataclysm_blade.item_name": "§4Cataclismo§r",
+	"tetra.module.sword/cataclysm_blade.name": "§4Cataclismo§r",
+	"tetra.module.sword/cataclysm_blade.description": "Uma lâmina forjada a partir de essência demoníaca solidificada. Anseia por sangue.",
+	"tetra.variant.cataclysm_blade/cataclysm_blade": "§cCataclismo§r",
+  
+	"tetra/schematic/single/head/mourning_star/mourning_star.name": "§4Estrela Sombria§r",
+	"tetra/schematic/single/head/mourning_star/mourning_star.description": "Um mangual forjado a partir de essência demoníaca solidificada. Anseia por sangue.",
+	"tetra/schematic/single/head/mourning_star/mourning_star.slot1": "§4Estrela Sombria§r",
+  
+	"tetra.module.single/mourning_star.item_name": "§4Estrela Sombria§r",
+	"tetra.module.single/mourning_star.name": "§4Estrela Sombria§r",
+	"tetra.module.single/mourning_star.description": "Um mangual forjado a partir de essência demoníaca solidificada. Anseia por sangue.",
+	"tetra.variant.mourning_star/mourning_star": "§cEstrela Sombria§r",
+
+	"tetra/schematic/double/reaping_scythe/reaping_scythe.name": "Cabeça de Foice Mortal",
+	"tetra/schematic/double/reaping_scythe/reaping_scythe.description": "Uma cabeça de foice usada para decapitar oponentes.\n\nMaterial §fdureza§r aumenta o §f dano§r e a chance de decapitação§r.",
+	"tetra/schematic/double/reaping_scythe/reaping_scythe.slot1": "Material da cabeça",
+  
+	"tetra.module.double/reaping_scythe.item_name": "Foice Mortal",
+	"tetra.module.double/reaping_scythe.name": "Cabeça de Foice Mortal",
+	"tetra.module.double/reaping_scythe.description": "Uma lâmina de foice usada para decapitar inimigos e pegar seus crânios.",
+	"tetra.module.double/reaping_scythe.material_name": "%s Foice Mortal",
+	"tetra.module.double/reaping_scythe.prefix": "%s",
+  
+	"tetra/schematic/double/soul_fire_scythe/soul_fire_scythe.name": "Foice de Fogo da Alma",
+	"tetra/schematic/double/soul_fire_scythe/soul_fire_scythe.description": "Uma foice forjada a partir das brasas puras emitidas pelo Vale da Areia das Almas. Tudo queima ao seu redor.",
+	"tetra/schematic/double/soul_fire_scythe/soul_fire_scythe.slot1": "Foice de Fogo da Alma",
+  
+	"tetra.module.double/soul_fire_scythe.item_name": "Foice de Fogo da Alma",
+	"tetra.module.double/soul_fire_scythe.name": "Foice de Fogo da Alma",
+	"tetra.module.double/soul_fire_scythe.description": "Uma foice forjada a partir das brasas puras emitidas pelo Vale da Areia das Almas. Tudo queima ao seu redor.",
+	"tetra.variant.soul_fire_scythe/soul_fire_scythe": "Foice de Fogo da Alma",
+  
+	"tetra/schematic/double/shockwave_hammer/shockwave_hammer.name": "Martelo de Onda de Choque",
+	"tetra/schematic/double/shockwave_hammer/shockwave_hammer.description": "Uma cabeça de martelo forjada a partir da câmara de onda de choque. Ele empurra os inimigos para trás e tem um poderoso ataque de impacto, junto com a chance de invocar um raio.",
+	"tetra/schematic/double/shockwave_hammer/shockwave_hammer.slot1": "Martelo de Onda de Choque",
+  
+	"tetra.module.double/shockwave_hammer.item_name": "Martelo de Onda de Choque",
+	"tetra.module.double/shockwave_hammer.name": "Martelo de Onda de Choque",
+	"tetra.module.double/shockwave_hammer.description": "Uma cabeça de martelo forjada a partir da câmara de onda de choque. Ele empurra os inimigos para trás e tem um poderoso ataque de impacto, junto com a chance de invocar um raio.",
+	"tetra.variant.shockwave_hammer/shockwave_hammer": "Martelo de Onda de Choque",
+
+	"tetra/schematic/double/slime_hammer/slime_hammer.name": "Martelo de Slime",
+	"tetra/schematic/double/slime_hammer/slime_hammer.description": "Uma cabeça de martelo feita de slime divertido e macio. Não se destina a ser uma arma.",
+	"tetra/schematic/double/slime_hammer/slime_hammer.slot1": "Martelo de Slime",
+  
+	"tetra.module.double/slime_hammer.item_name": "Martelo de Slime",
+	"tetra.module.double/slime_hammer.name": "Martelo de Slime",
+	"tetra.module.double/slime_hammer.description": "Uma cabeça de martelo feita de slime divertido e macio. Não se destina a ser uma arma.",
+	"tetra.variant.slime_hammer/slime_hammer": "Martelo de Slime",
+  
+	"tetra/schematic/sword/eerie_fuller.name": "Reperfurador Sombrio",
+	"tetra/schematic/sword/eerie_fuller.description": "Um reforçador feito de um fragmento do Warden. Ele permite que o usuário produza seu próprio boom sônico.",
+	"tetra/schematic/sword/eerie_fuller.slot1": "Reperfurador Sombrio",
+  
+	"tetra.module.sword/eerie_fuller.name": "§3Reperfurador Sombrio§r",
+	"tetra.module.sword/eerie_fuller.description": "Um reforçador feito de um fragmento do Warden. Ele permite que o usuário produza seu próprio boom sônico.",
+	"tetra.variant.eerie_fuller/eerie_fuller": "§3Reperfurador Sombrio§r",
+  
+	"tetra/schematic/sword/tonal_blade.name": "Lâmina Tonal",
+	  "tetra/schematic/sword/tonal_blade.description": "Substitui a lâmina da espada atual por uma lâmina tonal, uma espada sintonizada com a frequência de ressonância dos seres vivos.\n\nMaterial §fdureza§r aumenta o §fdamage§r.",
+	"tetra/schematic/sword/tonal_blade.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/tonal_blade.item_name": "Lâmina Tonal",
+	"tetra.module.sword/tonal_blade.name": "Lâmina Tonal",
+	"tetra.module.sword/tonal_blade.description": "Uma lâmina sintonizada com a frequência de ressonância dos seres vivos.",
+	"tetra.module.sword/tonal_blade.material_name": "%s Lâmina Tonal",
+	"tetra.module.sword/tonal_blade.prefix": "%s",
+  
+	"tetra/schematic/bow/stave/remembrance_stave.name": "Lembrança",
+	"tetra/schematic/bow/stave/remembrance_stave.description": "Um arco criado usando a magia estranha de uma lei estrangeira. Usado para lutar e proteger o mundo com o qual Ela se importava.",
+	"tetra/schematic/bow/stave/remembrance_stave.slot1": "Lembra-se Dela",
+
+	"tetra.module.bow/remembrance_stave.item_name": "Lembrança",
+	"tetra.module.bow/remembrance_stave.name": "Lembrança",
+	"tetra.module.bow/remembrance_stave.description": "Um arco criado usando a magia estranha de uma lei estrangeira. Usado para lutar e proteger o mundo com o qual Ela se importava.",
+	"tetra.variant.remembrance_stave/remembrance_stave": "Lembrança",
+  
+	"tetra/schematic/sword/rending_scissor_complete.name": "§cTesoura Cortante Completa§r",
+	"tetra/schematic/sword/rending_scissor_complete.description": "Uma lâmina de tesoura completa feita de Life Fibers endurecidas.",
+	"tetra/schematic/sword/rending_scissor_complete.slot1": "Tesoura Cortante",
+  
+	"tetra.module.sword/rending_scissor_complete.item_name": "Tesoura Cortante",
+	"tetra.module.sword/rending_scissor_complete.name": "Tesoura Cortante Completa",
+	"tetra.module.sword/rending_scissor_complete.description": "Uma lâmina de tesoura completa feita de Life Fibers endurecidas.",
+	"tetra.variant.rending_scissor_complete/rending_scissor_complete": "§cTesoura Cortante Completa§r",
+  
+	"tetra/schematic/sword/scissor_blade_left.name": "Lâmina Esquerda da Tesoura",
+	"tetra/schematic/sword/scissor_blade_left.description": "Substitui a lâmina da espada atual por uma lâmina de tesoura, uma espada feita para cortar tecido e tendões.\n\nMaterial §fdureza§r aumenta o §fdamage§r.",
+	"tetra/schematic/sword/scissor_blade_left.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/scissor_blade_left.item_name": "Lâmina de Tesoura",
+	"tetra.module.sword/scissor_blade_left.name": "Lâmina Esquerda da Tesoura",
+	"tetra.module.sword/scissor_blade_left.description": "Uma lâmina feita para cortar tecido e tendões.",
+	"tetra.module.sword/scissor_blade_left.material_name": "%s Lâmina de Tesoura",
+	"tetra.module.sword/scissor_blade_left.prefix": "%s",
+  
+	"tetra/schematic/sword/scissor_blade_right.name": "Lâmina Direita da Tesoura",
+	"tetra/schematic/sword/scissor_blade_right.description": "Substitui a lâmina da espada atual por uma lâmina de tesoura, uma espada feita para cortar tecido e tendões.\n\nMaterial §fdureza§r aumenta o §fdamage§r.",
+	"tetra/schematic/sword/scissor_blade_right.slot1": "Material da lâmina",
+  
+	"tetra.module.sword/scissor_blade_right.item_name": "Lâmina de Tesoura",
+	"tetra.module.sword/scissor_blade_right.name": "Lâmina Direita da Tesoura",
+	"tetra.module.sword/scissor_blade_right.description": "Uma lâmina feita para cortar tecido e tendões.",
+	"tetra.module.sword/scissor_blade_right.material_name": "%s Lâmina de Tesoura",
+	"tetra.module.sword/scissor_blade_right.prefix": "%s",
+
+	"tetra/schematic/artifact/casing/bell.name": "Artefato de Sino",
+	"tetra/schematic/artifact/casing/bell.description": "Substitui a caixa do artefato atual por um sino, uma caixa que aumenta seu espaço de cinto em 1.",
+	"tetra/schematic/artifact/casing/bell.slot1": "Material do artefato",
+  
+	"tetra.module.artifact/casing/bell.item_name": "Artefato de Sino",
+	"tetra.module.artifact/casing/bell.name": "Artefato de Sino",
+	"tetra.module.artifact/casing/bell.description": "Um artefato de sino.",
+	"tetra.module.artifact/casing/bell.material_name": "%s artefato de sino",
+	"tetra.module.artifact/casing/bell.prefix": "%s",
+  
+	"tetra/schematic/artifact/casing/machination.name": "Artefato de Maquinação",
+	"tetra/schematic/artifact/casing/machination.description": "Substitui a caixa do artefato atual por uma maquinação, uma caixa que aumenta seu espaço de raridade em 1.",
+	"tetra/schematic/artifact/casing/machination.slot1": "Material do artefato",
+  
+	"tetra.module.artifact/casing/machination.item_name": "Artefato de Maquinação",
+	"tetra.module.artifact/casing/machination.name": "Artefato de Maquinação",
+	"tetra.module.artifact/casing/machination.description": "Um artefato de maquinação.",
+	"tetra.module.artifact/casing/machination.material_name": "%s artefato de maquinação",
+	"tetra.module.artifact/casing/machination.prefix": "%s",
+  
+	"tetra/schematic/artifact/casing/relic.name": "Artefato de Relíquia",
+	"tetra/schematic/artifact/casing/relic.description": "Substitui a caixa do artefato atual por uma relíquia, uma caixa que aumenta seu espaço de amuleto em 1.",
+	"tetra/schematic/artifact/casing/relic.slot1": "Material do artefato",
+  
+	"tetra.module.artifact/casing/relic.item_name": "Artefato de Relíquia",
+	"tetra.module.artifact/casing/relic.name": "Artefato de Relíquia",
+	"tetra.module.artifact/casing/relic.description": "Um artefato de relíquia.",
+	"tetra.module.artifact/casing/relic.material_name": "%s artefato de relíquia",
+	"tetra.module.artifact/casing/relic.prefix": "%s",
+
+	"tetra/schematic/artifact/internal/orb.name": "Componente Orbe",
+	"tetra/schematic/artifact/internal/orb.description": "Substitui o interior do artefato atual por um orbe, um componente interno que aplica buffs passivos.",
+	"tetra/schematic/artifact/internal/orb.slot1": "Material do orbe",
+  
+	"tetra.module.artifact/internal/orb.name": "Componente Orbe",
+	"tetra.module.artifact/internal/orb.description": "Um componente interno de orbe.",
+	"tetra.module.artifact/internal/orb.material_name": "%s componente orbe",
+  
+	"tetra/schematic/artifact/attachment/binding.name": "Encadernação",
+	"tetra/schematic/artifact/attachment/binding.description": "Substitui o acessório do artefato atual por algumas encadernações, um recurso cosmético.",
+	"tetra/schematic/artifact/attachment/binding.slot1": "Material da encadernação",
+  
+	"tetra.module.artifact/attachment/binding.name": "Encadernação",
+	"tetra.module.artifact/attachment/binding.description": "Uma encadernação.",
+	"tetra.module.artifact/attachment/binding.material_name": "%s encadernação",
+  
+	"tetra.module.crossbow/light_stave.item_name": "Besta leve",
+	"tetra.module.crossbow/light_stave.name": "Engastadura leve",
+	"tetra.module.crossbow/light_stave.description": "Uma engastadura leve de besta. Esta engastadura é mais leve do que a maioria das bestas, tendo um tempo de puxada mais rápido ao custo de dano reduzido.",
+	"tetra.module.crossbow/light_stave.material_name": "%s engastadura leve",
+	"tetra.module.crossbow/light_stave.prefix": "%s",
+  
+	"tetra/schematic/crossbow/stave/light_stave.name": "Engastadura leve",
+	"tetra/schematic/crossbow/stave/light_stave.description": "Substitui a engastadura por uma engastadura leve de besta feita com os materiais fornecidos. Esta engastadura é mais leve do que a maioria das bestas, tendo um tempo de puxada mais rápido ao custo de dano reduzido.",
+	"tetra/schematic/crossbow/stave/light_stave.slot1": "Material",
+  
+	"tetra.module.crossbow/heavy_stave.item_name": "Besta pesada",
+	"tetra.module.crossbow/heavy_stave.name": "Engastadura pesada",
+	"tetra.module.crossbow/heavy_stave.description": "Uma engastadura pesada de besta. Esta engastadura é mais pesada do que a maioria das bestas, tendo maior dano ao custo de tempo de puxada mais lento.",
+	"tetra.module.crossbow/heavy_stave.material_name": "%s engastadura pesada",
+	"tetra.module.crossbow/heavy_stave.prefix": "%s",
+
+	"tetra/schematic/crossbow/stave/heavy_stave.name": "Engastadura pesada",
+	"tetra/schematic/crossbow/stave/heavy_stave.description": "Substitui a engastadura por uma engastadura pesada de besta feita com os materiais fornecidos. Esta engastadura é mais pesada do que a maioria das bestas, tendo maior dano ao custo de tempo de puxada mais lento.",
+	"tetra/schematic/crossbow/stave/heavy_stave.slot1": "Material",
+  
+	"tetra.module.crossbow/light_stock.name": "Coronha leve",
+	"tetra.module.crossbow/light_stock.description": "Uma coronha leve de besta. Esta coronha mais leve fornece alguma integridade e hospeda várias das peças mecânicas da besta. A coronha mais leve oferece tempo de puxada mais rápido, ao custo de menor durabilidade e dano.",
+	"tetra.module.crossbow/light_stock.material_name": "%s coronha leve",
+  
+	"tetra/schematic/crossbow/stock/light_stock.name": "Coronha leve",
+	"tetra/schematic/crossbow/stock/light_stock.description": "Substitui a coronha por uma feita com os materiais fornecidos.",
+	"tetra/schematic/crossbow/stock/light_stock.slot1": "Material",
+  
+	"tetra/schematic/sword/tsuba_guard.name": "Guarda Tsuba",
+	"tetra/schematic/sword/tsuba_guard.description": "Crie uma guarda tsuba que protege a mão, além de conceder ao jogador resistência de armadura extra.\n\nMaterial §fdureza§r e §ffixibilidade§r aumenta a quantidade de armadura.",
+	"tetra/schematic/sword/tsuba_guard.slot1": "Material da guarda",
+  
+	"tetra.module.sword/tsuba_guard.name": "Guarda Tsuba",
+	"tetra.module.sword/tsuba_guard.description": "Uma guarda tsuba que protege a mão e concede ao jogador resistência de armadura extra. Normalmente usada em conjunto com lâminas katana.",
+	"tetra.module.sword/tsuba_guard.material_name": "%s guarda tsuba",
+  
+	"tetra.synergy.double/quarry_hammer": "Marreta de Pedreira",
+	"tetra.synergy.double/mjolnir": "Mjolnir",
+	"tetra.synergy.double/dual_throwing_axe": "Machado Duplo",
+	"tetra.synergy.sword/murasama": "Lâmina Murasama",
+	"tetra.synergy.sword/architects_crucible": "Crisol do Arquiteto",
+	"tetra.synergy.sword/thousand_cold_nights": "Mil Noites Frias",
+
+
+
+	"tetra/schematic/katana/murasama_blade.name": "Murasama",
+	"tetra/schematic/katana/murasama_blade.description": "Melhore sua katana na lendária lâmina Murasama.",
+	"tetra/schematic/katana/murasama_blade.slot1": "Lâmina Murasama",
+  
+	"tetra.improvement.sword/murasama_imprv.name": "Murasamificado",
+	"tetra.improvement.sword/murasama_imprv.description": "Permita que sua katana assuma o manto de Murasama",
+  
+	"tetra/schematic/double/basic_hammer/utilize.name": "Utilizar",
+	"tetra/schematic/double/basic_hammer/utilize.description": "Utilize a cabeça da ferramenta para desbloquear uma especialidade única dentro do módulo",
+  
+	"tetra.improvement.double/utilized.name": "Utilizado",
+  
+	"tetra.improvement.head_hone/radius_tier.name": "Profundidade",
+	"tetra.improvement.head_hone/radius_tier.prefix": "Profundidade",
+	"tetra.improvement.head_hone/radius_tier.description": "Aumenta a profundidade do túnel",
+  
+	"tetra/schematic/double/basic_hammer/hone_radius_1.name": "Profundidade",
+	"tetra/schematic/double/basic_hammer/hone_radius_1.description": "Aumente a profundidade em que seu martelo pode cavar túneis.",
+	"tetra/schematic/double/basic_hammer/hone_radius_2.name": "Aprimoramento: Profundidade II",
+	"tetra/schematic/double/basic_hammer/hone_radius_2.description": "Aprimore a melhoria de profundidade. O efeito é aumentado para 27.",
+	"tetra/schematic/double/basic_hammer/hone_radius_3.name": "Aprimoramento: Profundidade III",
+	"tetra/schematic/double/basic_hammer/hone_radius_3.description": "Aprimore ainda mais a melhoria de profundidade. O efeito é aumentado para 36.",
+	"tetra/schematic/double/basic_hammer/hone_radius_4.name": "Aprimoramento: Profundidade IV",
+	"tetra/schematic/double/basic_hammer/hone_radius_4.description": "Aprimore ainda mais a melhoria de profundidade. O efeito é aumentado para 45.",
+	"tetra/schematic/double/basic_hammer/hone_radius_5.name": "Aprimoramento: Profundidade V",
+	"tetra/schematic/double/basic_hammer/hone_radius_5.description": "Aprimore ainda mais a melhoria de profundidade. O efeito é aumentado para 54.",
+  
+	"tetra.improvement.blade/vengeance_tier.name": "Irado",
+	"tetra.improvement.blade/vengeance_tier.prefix": "Irado",
+	"tetra.improvement.blade/vengeance_tier.description": "Aumenta o dano de vingança",
+
+	"tetra/schematic/sword/crucible/hone_vengeance_1.name": "Caminho: Ira",
+	"tetra/schematic/sword/crucible/hone_vengeance_1.description": "Aumenta o dano de vingança em 5% com pouca saúde.",
+	"tetra/schematic/sword/crucible/hone_vengeance_2.name": "Aprimoramento: Irado II",
+	"tetra/schematic/sword/crucible/hone_vengeance_2.description": "Aprimore a melhoria de vingança. O dano chega a 15% com pouca saúde.",
+	"tetra/schematic/sword/crucible/hone_vengeance_3.name": "Aprimoramento: Irado III",
+	"tetra/schematic/sword/crucible/hone_vengeance_3.description": "Aprimore ainda mais a melhoria de vingança. O dano chega a 20% com pouca saúde.",
+  
+	"tetra.improvement.blade/infernal.name": "Infernal",
+	"tetra.improvement.blade/infernal.prefix": "Infernal",
+	"tetra.improvement.blade/infernal.description": "Chance de incendiar inimigos e empurrá-los para trás ao acertar.",
+  
+	"tetra/schematic/sword/flamberge/hone_infernal_1.name": "Repulsão Infernal",
+	"tetra/schematic/sword/flamberge/hone_infernal_1.description": "Incendeie inimigos por 3 segundos, com 15% de chance de ocorrer.",
+	"tetra/schematic/sword/flamberge/hone_infernal_2.name": "Aprimoramento: Infernal II",
+	"tetra/schematic/sword/flamberge/hone_infernal_2.description": "Aprimore a melhoria infernal. Incendeie inimigos por 4 segundos, com 20% de chance de ocorrer.",
+	"tetra/schematic/sword/flamberge/hone_infernal_3.name": "Aprimoramento: Infernal III",
+	"tetra/schematic/sword/flamberge/hone_infernal_3.description": "Aprimore ainda mais a melhoria infernal. Incendeie inimigos por 5 segundos, com 25% de chance de ocorrer",
+	"tetra/schematic/sword/flamberge/hone_infernal_4.name": "Aprimoramento: Infernal IV",
+	"tetra/schematic/sword/flamberge/hone_infernal_4.description": "Aprimore ainda mais a melhoria infernal. Incendeie inimigos por 6 segundos, com 30% de chance de ocorrer",
+  
+	"tetra.improvement.soul_fire_hone/soul_fire.name": "Chama da Alma",
+	"tetra.improvement.soul_fire_hone/soul_fire.description": "Aumenta o dano de fogo e magia causado",
+  
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_1.name": "Chama da Alma",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_1.description": "Aumenta o dano de fogo e magia causado pela habilidade em 1.",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_2.name": "Aprimoramento: Chamas II",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_2.description": "Aprimore a melhoria de chama da alma. Inimigos permanecem em chamas por 8 segundos (14 se aprimorado duas vezes), enquanto o dano mágico aumenta para 6 (9 se aprimorado duas vezes).",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_3.name": "Aprimoramento: Chamas III",
+	"tetra/schematic/double/soul_fire_scythe/hone_soul_fire_3.description": "Aprimore ainda mais a melhoria de chama da alma. Inimigos permanecem em chamas por 10 segundos (16 se aprimorado duas vezes), enquanto o dano mágico aumenta para 7 (10 se aprimorado duas vezes).",
+
+	"tetra/schematic/crucible/architects_crucible.name": "Crisol do Arquiteto",
+	"tetra/schematic/crucible/architects_crucible.description": "Melhore seu crisol no verdadeiro Crisol do Arquiteto.",
+	"tetra/schematic/crucible/architects_crucible.slot1": "Crisol do Arquiteto",
+  
+	"tetra.improvement.sword/architect_imprv.name": "Arquitetura Proibida",
+	"tetra.improvement.sword/architect_imprv.description": "Permita que seu crisol assuma o manto do Crisol do Arquiteto.",
+  
+	"tetra.improvement.blade/esoteric_tier.name": "Esotérico",
+	"tetra.improvement.blade/esoteric_tier.prefix": "Esotérico",
+	"tetra.improvement.blade/esoteric_tier.description": "Aumenta o dano do fio esotérico",
+  
+	"tetra/schematic/sword/crucible/hone_esoteric_1.name": "Caminho: Esoterismo",
+	"tetra/schematic/sword/crucible/hone_esoteric_1.description": "Aumenta o dano do fio esotérico em 5%.",
+	"tetra/schematic/sword/crucible/hone_esoteric_2.name": "Aprimoramento: Esotérico II",
+	"tetra/schematic/sword/crucible/hone_esoteric_2.description": "Aprimore a melhoria do fio esotérico. O dano do fio esotérico chega a 10%.",
+	"tetra/schematic/sword/crucible/hone_esoteric_3.name": "Aprimoramento: Esotérico III",
+	"tetra/schematic/sword/crucible/hone_esoteric_3.description": "Aprimore ainda mais a melhoria do fio esotérico. O dano do fio esotérico chega a 15%.",
+  
+	"tetra.improvement.nano_fused.name": "Nano-Infundido",
+	"tetra.improvement.nano_fused.description": "Infunde a arma com um nano-insetoide, alterando os drops de saque para mobs específicos.",
+  
+	"tetra/schematic/shared/hone_nano_fused_1.name": "Nano-Infundido",
+	"tetra/schematic/shared/hone_nano_fused_1.description": "Infunde a arma com um nano-insetoide, alterando os drops de saque para mobs específicos.",
+	"tetra/schematic/shared/hone_nano_fused_1.slot1": "Infundir",
+  
+	"tetra/schematic/katana/thousand_cold_nights.name": "Mil Noites Frias",
+	"tetra/schematic/katana/thousand_cold_nights.description": "Corrompa sua katana na lendária lâmina Mil Noites Frias.",
+	"tetra/schematic/katana/thousand_cold_nights.slot1": "Mil Noites Frias",
+  
+	"tetra.improvement.sword/thousand_cold_nights_imprv.name": "Demoníaco",
+	"tetra.improvement.sword/thousand_cold_nights_imprv.description": "Permita que sua katana se torne a lâmina Mil Noites Frias.",
+
+
+	"tetra.variant.compound_string/string": "Corda composta básica",
+	"tetra.variant.compound_string/hide": "Corda dupla de couro",
+	"tetra.variant.compound_string/leather": "Corda dupla de couro",
+	"tetra.variant.compound_string/phantom_membrane": "Membrana fantasma dupla",
+	"tetra.variant.compound_string/dragon_sinew": "Composto de tendão de dragão",
+  
+	"tetra.variant.compound_cross_string/string": "Corda composta básica",
+	"tetra.variant.compound_cross_string/hide": "Corda dupla de couro",
+	"tetra.variant.compound_cross_string/leather": "Corda dupla de couro",
+	"tetra.variant.compound_cross_string/phantom_membrane": "Membrana fantasma dupla",
+	"tetra.variant.compound_cross_string/dragon_sinew": "Composto de tendão de dragão",
+  
+	"tetra/schematic/single/head/halberd_head/serrated_1.name": "Serrilhado",
+	"tetra/schematic/single/head/halberd_head/serrated_1.description": "Serrilhe a cabeça. Ataques têm 30% de chance de causar sangramento no alvo por 4 de dano durante 2 segundos. Não é eficaz contra mortos-vivos.",
+	"tetra/schematic/single/head/halberd_head/serrated_2.name": "Aprimoramento: Serrilhado II",
+	"tetra/schematic/single/head/halberd_head/serrated_2.description": "Aprimore o aprimoramento serrilhado, aumenta o dano causado para 8.",
+	"tetra/schematic/single/head/halberd_head/serrated_3.name": "Aprimoramento: Serrilhado III",
+	"tetra/schematic/single/head/halberd_head/serrated_3.description": "Aprimore ainda mais o aprimoramento serrilhado, aumenta o dano causado para 16.",
+  
+	"tetra.improvement.halberd_head/serrated.name": "Serrilhado",
+	"tetra.improvement.halberd_head/serrated.prefix": "Serrilhado",
+	"tetra.improvement.halberd_head/serrated.description": "Ataques podem causar sangramento",
+  
+	"tetra/schematic/single/head/halberd_head/tempered_1.name": "Temperado",
+	"tetra/schematic/single/head/halberd_head/tempered_1.description": "Tempera a lâmina, aumentando muito sua dureza. Faz com que parte do dano causado ignore a armadura.",
+	"tetra/schematic/single/head/halberd_head/tempered_2.name": "Aprimoramento: Temperado II",
+	"tetra/schematic/single/head/halberd_head/tempered_2.description": "Aprimore o aprimoramento temperado, aumenta a quantidade de dano que penetra a armadura para 3.",
+	"tetra/schematic/single/head/halberd_head/tempered_3.name": "Aprimoramento: Temperado III",
+	"tetra/schematic/single/head/halberd_head/tempered_3.description": "Aprimore ainda mais o aprimoramento temperado, aumenta a quantidade de dano que penetra a armadura para 5.",
+
+	"tetra.improvement.halberd_head/tempered.name": "Temperado",
+	"tetra.improvement.halberd_head/tempered.prefix": "Temperado",
+	"tetra.improvement.halberd_head/tempered.description": "Ataques ignoram parcialmente a armadura",
+  
+	"tetra/schematic/crossbow/stave/hone_damage_1.name": "Aprimoramento: Dano I",
+	"tetra/schematic/crossbow/stave/hone_damage_1.description": "Aprimore o módulo para aumentar o dano geral.",
+	"tetra/schematic/crossbow/stave/hone_damage_2.name": "Aprimoramento: Dano II",
+	"tetra/schematic/crossbow/stave/hone_damage_2.description": "Aprimore ainda mais o dano para este módulo.",
+	"tetra/schematic/crossbow/stave/hone_damage_3.name": "Aprimoramento: Dano III",
+	"tetra/schematic/crossbow/stave/hone_damage_3.description": "Aprimore ainda mais o dano para este módulo.",
+	"tetra/schematic/crossbow/stave/hone_damage_4.name": "Aprimoramento: Dano IV",
+	"tetra/schematic/crossbow/stave/hone_damage_4.description": "Aprimore ainda mais o dano para este módulo.",
+	"tetra/schematic/crossbow/stave/hone_damage_5.name": "Aprimoramento: Dano V",
+	"tetra/schematic/crossbow/stave/hone_damage_5.description": "Aprimore ainda mais o dano para este módulo.",
+  
+	"tetra.improvement.crossbow_stave_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.crossbow_stave_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra/schematic/crossbow/stave/hone_speed_1.name": "Aprimoramento: Velocidade I",
+	"tetra/schematic/crossbow/stave/hone_speed_1.description": "Aprimore o módulo para aumentar a velocidade geral de preparação.",
+	"tetra/schematic/crossbow/stave/hone_speed_2.name": "Aprimoramento: Velocidade II",
+	"tetra/schematic/crossbow/stave/hone_speed_2.description": "Aprimore ainda mais a velocidade de preparação para este módulo.",
+	"tetra/schematic/crossbow/stave/hone_speed_3.name": "Aprimoramento: Velocidade III",
+	"tetra/schematic/crossbow/stave/hone_speed_3.description": "Aprimore ainda mais a velocidade de preparação para este módulo.",
+	"tetra/schematic/crossbow/stave/hone_speed_4.name": "Aprimoramento: Velocidade IV",
+	"tetra/schematic/crossbow/stave/hone_speed_4.description": "Aprimore ainda mais a velocidade de preparação para este módulo.",
+	"tetra/schematic/crossbow/stave/hone_speed_5.name": "Aprimoramento: Velocidade V",
+	"tetra/schematic/crossbow/stave/hone_speed_5.description": "Aprimore ainda mais a velocidade de preparação para este módulo.",
+  
+	"tetra.improvement.crossbow_stave_hone/speed.name": "Aprimoramento: Velocidade",
+	"tetra.improvement.crossbow_stave_hone/speed.description": "Aumenta a velocidade de preparação",
+
+	"tetra.improvement.halberd_head_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.halberd_head_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra.improvement.tomahawk_head_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.tomahawk_head_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra.improvement.annihilator_head_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.annihilator_head_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra.improvement.reaping_scythe_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.reaping_scythe_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra.improvement.soul_fire_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.soul_fire_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra.improvement.mourning_star_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.mourning_star_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra.improvement.shockwave_head_hone/damage.name": "Aprimoramento: Dano",
+	"tetra.improvement.shockwave_head_hone/damage.description": "Aumenta o dano causado",
+  
+	"tetra.improvement.blade/goliath_tier.name": "Golias",
+	"tetra.improvement.blade/goliath_tier.description": "Aumenta o dano contra chefes",
+  
+	"tetra/schematic/sword/crucible/hone_goliath_1.name": "Caminho: Golias",
+	"tetra/schematic/sword/crucible/hone_goliath_1.description": "Aumenta o dano contra chefes em 25%.",
+	"tetra/schematic/sword/crucible/hone_goliath_2.name": "Aprimoramento: Golias II",
+	"tetra/schematic/sword/crucible/hone_goliath_2.description": "Aprimore a melhoria de Golias. O dano contra chefes chega a 50%.",
+	"tetra/schematic/sword/crucible/hone_goliath_3.name": "Aprimoramento: Golias III",
+	"tetra/schematic/sword/crucible/hone_goliath_3.description": "Aprimore ainda mais a melhoria de Golias. O dano contra chefes chega a 75%.",
+
+
+
+	"tetra.variant_category.reagent.label": "Reagente",
+
+	"tetra.material.warped_muscle": "Músculo Distorcido",
+	"tetra.material.warped_muscle.prefix": "Músculo Distorcido",
+  
+	"tetra.variant.spike/serrated_tooth": "Dente de Tubarão Serrilhado",
+  
+	"tetra.material.diabolium_ingot": "Diabolium",
+	"tetra.material.diabolium_ingot.prefix": "Diabolium",
+  
+	"tetra.material.echo_shard": "Fragmento de Eco",
+	"tetra.material.echo_shard.prefix": "Fragmento de Eco",
+  
+	"tetra.material.socket_void_worm_eye": "Olho de Verme do Vazio",
+	"tetra.material.socket_void_worm_eye.prefix": "§dOlho de Verme do Vazio§r",
+  
+	"tetra.material.blaze_powder": "Pó de Blaze",
+	"tetra.material.blaze_powder.prefix": "§6Pó de Blaze§r",
+  
+	"tetra.material.ghast_tear": "Lágrima de Ghast",
+	"tetra.material.ghast_tear.prefix": "§fLágrima de Ghast§r",
+  
+	"tetra.material.glass": "Vidro",
+	"tetra.material.glass.prefix": "§fVidro§r",
+  
+	"tetra.material.glowstone_dust": "Poeira de Pedra Luminosa",
+	"tetra.material.glowstone_dust.prefix": "§ePoeira de Pedra Luminosa§r",
+  
+	"tetra.material.magma_cream": "Creme de Magma",
+	"tetra.material.magma_cream.prefix": "§cCreme de Magma§r",
+  
+	"tetra.material.redstone_dust": "Poeira Redstone",
+	"tetra.material.redstone_dust.prefix": "§4Poeira Redstone§r",
+
+	"tetra.material.reagent_emerald": "Esmeralda",
+	"tetra.material.reagent_emerald.prefix": "§aEsmeralda§r",
+  
+	"item.tetra.scroll.tetra/flamberge_blade.prefix": "A Arte da Forja, Capítulo 1",
+	"item.tetra.scroll.tetra/flamberge_blade.name": "Flamberges",
+	"item.tetra.scroll.tetra/flamberge_blade.description": "Contém conhecimento sobre como forjar lâminas flamberge",
+	"item.tetra.scroll.tetra/flamberge_blade.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.prefix": "A Arte da Forja, Capítulo 2",
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.name": "Labris",
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.description": "Contém conhecimento sobre como forjar cabeças de labrís",
+	"item.tetra.scroll.single/head/halberd_head/halberd_head.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.sword/key_guard.prefix": "A Arte da Forja, Capítulo 3",
+	"item.tetra.scroll.sword/key_guard.name": "Guarda-mato",
+	"item.tetra.scroll.sword/key_guard.description": "Contém conhecimento sobre como forjar guarda-matos",
+	"item.tetra.scroll.sword/key_guard.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.single/head/mace_head/mace_head.prefix": "A Arte da Forja, Capítulo 4",
+	"item.tetra.scroll.single/head/mace_head/mace_head.name": "Maças",
+	"item.tetra.scroll.single/head/mace_head/mace_head.description": "Contém conhecimento sobre como forjar cabeças de maça",
+	"item.tetra.scroll.single/head/mace_head/mace_head.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.tetra/crucible_blade.prefix": "A Arte da Forja, Capítulo 5",
+	"item.tetra.scroll.tetra/crucible_blade.name": "O Crisol",
+	"item.tetra.scroll.tetra/crucible_blade.description": "Contém conhecimento sobre como forjar o Crisol",
+	"item.tetra.scroll.tetra/crucible_blade.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+
+	"item.tetra.scroll.bow/stave/dreadnought_stave.prefix": "A Arte da Forja, Capítulo 6",
+	"item.tetra.scroll.bow/stave/dreadnought_stave.name": "Stave Dreadnought",
+	"item.tetra.scroll.bow/stave/dreadnought_stave.description": "Contém conhecimento sobre como fabricar o stave dreadnought",
+	"item.tetra.scroll.bow/stave/dreadnought_stave.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.sword/katana/katana_blade.prefix": "A Arte da Forja, Capítulo 7",
+	"item.tetra.scroll.sword/katana/katana_blade.name": "Lâmina de Katana",
+	"item.tetra.scroll.sword/katana/katana_blade.description": "Contém conhecimento sobre como forjar uma lâmina de katana e uma guarda tsuba correspondente",
+	"item.tetra.scroll.sword/katana/katana_blade.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.bow/string/compound_string.prefix": "A Arte da Forja, Capítulo 8",
+	"item.tetra.scroll.bow/string/compound_string.name": "Corda Composta",
+	"item.tetra.scroll.bow/string/compound_string.description": "Contém conhecimento sobre como trançar uma corda composta para arco",
+	"item.tetra.scroll.bow/string/compound_string.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.utilize/hammer.prefix": "A Arte da Forja: Capítulo 9",
+	"item.tetra.scroll.utilize/hammer.name": "Marreta de Pedreira",
+	"item.tetra.scroll.utilize/hammer.description": "Contém conhecimento sobre como utilizar uma cabeça de marreta para cavar túneis",
+	"item.tetra.scroll.utilize/hammer.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.sword/tonal_blade.prefix": "A Arte da Forja, Capítulo 10",
+	"item.tetra.scroll.sword/tonal_blade.name": "Lâmina Tonal",
+	"item.tetra.scroll.sword/tonal_blade.description": "Contém conhecimento sobre como forjar uma lâmina tonal",
+	"item.tetra.scroll.sword/tonal_blade.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.tetra/rending_scissor_complete.prefix": "A Arte da Forja, Capítulo ?",
+	"item.tetra.scroll.tetra/rending_scissor_complete.name": "Tesoura Rasgadora Completa",
+	"item.tetra.scroll.tetra/rending_scissor_complete.description": "Contém conhecimento de um mundo diferente sobre como criar a Tesoura Rasgadora",
+	"item.tetra.scroll.tetra/rending_scissor_complete.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+
+	"item.tetra.scroll.sword/katana/murasama_blade.prefix": "A Arte da Forja, Capítulo ?",
+	"item.tetra.scroll.sword/katana/murasama_blade.name": "Murasama",
+	"item.tetra.scroll.sword/katana/murasama_blade.description": "Contém conhecimento de um mundo diferente sobre como criar a Murasama",
+	"item.tetra.scroll.sword/katana/murasama_blade.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.prefix": "A Arte da Forja, Capítulo 0",
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.name": "Crisol do Arquiteto",
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.description": "Contém conhecimento proibido sobre como forjar o Verdadeiro Crisol do Arquiteto",
+	"item.tetra.scroll.sword/crucible/architects_crucible_blade.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"item.tetra.scroll.sword/thousand_cold_nights.prefix": "A Arte da Forja, Capítulo ?",
+	"item.tetra.scroll.sword/thousand_cold_nights.name": "Mil Noites Frias",
+	"item.tetra.scroll.sword/thousand_cold_nights.description": "Contém conhecimento demoníaco sobre como recriar as Mil Noites Frias",
+	"item.tetra.scroll.sword/thousand_cold_nights.description_extended": "§7[§8shift + rmb§7]§8 leia mais",
+  
+	"tetra.variant.sword_socket/void_worm_eye": "Vinculado [§dOlho de Verme do Vazio§r]",
+	"tetra.variant.sword_socket/void_worm_eye.description": "Um lendário Olho de Verme do Vazio, vinculado à espada onde a lâmina encontra o punho. \n\n Um deus não teme a morte, portanto, fornece todos os efeitos combinados das gemas.",
+  
+	"tetra.variant.double_socket/void_worm_eye": "Vinculado [§dOlho de Verme do Vazio§r]",
+	"tetra.variant.double_socket/void_worm_eye.description": "Um lendário Olho de Verme do Vazio, vinculado à lateral da cabeça da ferramenta. \n\n Um deus não teme a morte, portanto, fornece todos os efeitos combinados das gemas.",
+  
+	"tetra.variant.single_socket/void_worm_eye": "Vinculado [§dOlho de Verme do Vazio§r]",
+	"tetra.variant.single_socket/void_worm_eye.description": "Um lendário Olho de Verme do Vazio, vinculado onde a cabeça encontra o cabo. \n\n Um deus não teme a morte, portanto, fornece todos os efeitos combinados das gemas.",
+  
+	"tetra.advancements.art_of_forging.intro.title": "Introdução à Forja (§eAoF§r)",
+	"tetra.advancements.art_of_forging.intro.description": "Mergulhe na arte da forja de módulos",
+
+	"tetra.advancements.scrolls.root.title": "Segredos Ocultos (§eAoF§r)",
+	"tetra.advancements.scrolls.root.description": "Encontre um pergaminho e localize os esquemas da Arte da Forja",
+  
+	"art_of_forging.advancements.materials.root.title": "Compêndio de Matéria (§eAoF§r)",
+	"art_of_forging.advancements.materials.root.description": "Crie uma mistura de liga ressonante para começar a forjar novos materiais.",
+  
+	"tetra.advancements.art_of_forging.rapier_upgrade.title": "Agulha Glorificada",
+	"tetra.advancements.art_of_forging.rapier_upgrade.description": "Crie um florete",
+  
+	"tetra.advancements.art_of_forging.flamberge_upgrade.title": "Lâmina Ondulada pelo Calor",
+	"tetra.advancements.art_of_forging.flamberge_upgrade.description": "Crie uma flamberge",
+  
+	"tetra.advancements.art_of_forging.crucible_upgrade.title": "A Única Coisa Que Eles Temem",
+	"tetra.advancements.art_of_forging.crucible_upgrade.description": "Crie a lendária lâmina do crisol",
+  
+	"tetra.advancements.art_of_forging.dreadnought_upgrade.title": "Que Chova Fogo do Inferno",
+	"tetra.advancements.art_of_forging.dreadnought_upgrade.description": "Crie um stave dreadnought",
+  
+	"tetra.advancements.art_of_forging.tomahawk_upgrade.title": "Aqui está o Johnny!",
+	"tetra.advancements.art_of_forging.tomahawk_upgrade.description": "Crie uma cabeça de machado tomahawk",
+  
+	"tetra.advancements.upgrades.bastard_upgrade.title": "Forjamento Pré-Matrimonial",
+	"tetra.advancements.upgrades.bastard_upgrade.description": "Crie uma lâmina bastarda",
+  
+	"tetra.advancements.upgrades.executioner_upgrade.title": "Cortem Suas Cabeças!",
+	"tetra.advancements.upgrades.executioner_upgrade.description": "Crie uma lâmina de executor",
+  
+	"tetra.advancements.art_of_forging.rending_scissor_red_upgrade.title": "Não Perca Seu Caminho!",
+	"tetra.advancements.art_of_forging.rending_scissor_red_upgrade.description": "Crie a lâmina de tesoura rasgadora vermelha.",
+  
+	"tetra.advancements.art_of_forging.rending_scissor_purple_upgrade.title": "Eu Não Sou Sua Mulherzinha",
+	"tetra.advancements.art_of_forging.rending_scissor_purple_upgrade.description": "Crie a lâmina de tesoura rasgadora roxa.",
+
+	"tetra.advancements.art_of_forging.katana_upgrade.title": "Caminho da Lâmina",
+	"tetra.advancements.art_of_forging.katana_upgrade.description": "Crie uma lâmina de katana",
+  
+	"tetra.advancements.art_of_forging.echo_fuller.title": "Eu Costumava Ser Divindade",
+	"tetra.advancements.art_of_forging.echo_fuller.description": "Encontre um fragmento de eco e use-o como uma calha de espada!",
+  
+	"tetra.advancements.art_of_forging.eerie_fuller.title": "O Som do Silêncio",
+	"tetra.advancements.art_of_forging.eerie_fuller.description": "Mate um Warden usando uma arma nano-infundida e pegue seu cobiçado fragmento como uma calha de espada!",
+  
+	"tetra.advancements.art_of_forging.architects_crucible.title": "Absolvição Total",
+	"tetra.advancements.art_of_forging.architects_crucible.description": "Aprimore sua lâmina Crisol para revelar seu verdadeiro poder, transformando-a no Crisol do Arquiteto",
+  
+	"tetra.advancements.art_of_forging.murasama_blade.title": "Haverá Derramamento de Sangue",
+	"tetra.advancements.art_of_forging.murasama_blade.description": "Aprimore a lâmina de katana para a lendária Murasama",
+  
+	"tetra.advancements.art_of_forging.remembrance_upgrade.title": "Você Não Está Sozinho",
+	"tetra.advancements.art_of_forging.remembrance_upgrade.description": "Crie um stave da Lembrança usando um Orbe Negro",
+  
+	"tetra.advancements.art_of_forging.euclidean_dagger_upgrade.title": "A Noite Pertence a Você",
+	"tetra.advancements.art_of_forging.euclidean_dagger_upgrade.description": "Crie uma Adaga Euclidiana usando um Sigilo do Éden",
+  
+	"tetra.advancements.art_of_forging.rending_scissor_complete_upgrade.title": "Vestido Para Matar!",
+	"tetra.advancements.art_of_forging.rending_scissor_complete_upgrade.description": "Crie uma lâmina de Tesoura Rasgadora completa",
+  
+	"tetra.advancements.scrolls.find_scroll_halberd.title": "Guerra Feudal",
+	"tetra.advancements.scrolls.find_scroll_halberd.description": "Encontre um pergaminho de alabarda",
+  
+	"tetra.advancements.scrolls.find_scroll_key_guard.title": "Kingdom Hearts",
+	"tetra.advancements.scrolls.find_scroll_key_guard.description": "Encontre um pergaminho de guarda-mato",
+
+	"tetra.advancements.scrolls.find_scroll_mace.title": "Golpes Degradantes",
+	"tetra.advancements.scrolls.find_scroll_mace.description": "Encontre um pergaminho de maça",
+  
+	"tetra.advancements.scrolls.find_scroll_dreadnought_stave.title": "Enviem a Artilharia!",
+	"tetra.advancements.scrolls.find_scroll_dreadnought_stave.description": "Encontre um pergaminho de stave dreadnought",
+  
+	"tetra.advancements.scrolls.get_scroll_flamberge.title": "Você Aguenta o Calor?",
+	"tetra.advancements.scrolls.get_scroll_flamberge.description": "Obtenha um pergaminho de flamberge",
+  
+	"tetra.advancements.scrolls.get_scroll_crucible.title": "Um Esforço Infernal",
+	"tetra.advancements.scrolls.get_scroll_crucible.description": "Obtenha o lendário pergaminho do Crisol",
+  
+	"tetra.advancements.scrolls.find_scroll_compound_string.title": "Prepare-se Para Problemas, E Que Sejam em Dobro!",
+	"tetra.advancements.scrolls.find_scroll_compound_string.description": "Encontre um pergaminho de corda de arco composto",
+  
+	"tetra.advancements.scrolls.find_scroll_tonal_blade.title": "Que Som é Esse?",
+	"tetra.advancements.scrolls.find_scroll_tonal_blade.description": "Encontre um pergaminho de lâmina tonal",
+  
+	"tetra.advancements.scrolls.get_scroll_katana.title": "Estude a Espada",
+	"tetra.advancements.scrolls.get_scroll_katana.description": "Obtenha um pergaminho de katana",
+  
+	"tetra.advancements.scrolls.get_scroll_murasama.title": "Memórias Fragmentadas",
+	"tetra.advancements.scrolls.get_scroll_murasama.description": "Obtenha o lendário pergaminho Murasama",
+  
+	"tetra.advancements.scrolls.get_scroll_quarry_hammer.title": "Montanhas Virando Formigueiros",
+	"tetra.advancements.scrolls.get_scroll_quarry_hammer.description": "Obtenha um pergaminho de marreta de pedreira",
+  
+	"tetra.advancements.scrolls.get_scroll_rending_scissors.title": "Se Eu Tivesse Espinhos Como Um Cardo",
+	"tetra.advancements.scrolls.get_scroll_rending_scissors.description": "Obtenha o lendário pergaminho Tesoura Rasgadora",
+
+	"tetra.advancements.scrolls.get_scroll_architects_crucible.title": "A Arte da Forja",
+	"tetra.advancements.scrolls.get_scroll_architects_crucible.description": "Obtenha o pergaminho ascende do Crisol do Arquiteto",
+  
+	"art_of_forging.advancements.materials.forged_steel.title": "Aço dos Anciões",
+	"art_of_forging.advancements.materials.forged_steel.description": "Derreta uma liga ressonante para criar um lingote de Aço Forjado",
+  
+	"art_of_forging.advancements.materials.vobrite_crystal.title": "Nuvens de Tempestade Cristalizadas",
+	"art_of_forging.advancements.materials.vobrite_crystal.description": "Encontre um cristal de vobrita em um naufrágio",
+  
+	"art_of_forging.advancements.materials.vobrivium_ingot.title": "Atingido por um Trovão",
+	"art_of_forging.advancements.materials.vobrivium_ingot.description": "Crie um lingote de Vobrivium infundindo um lingote de Aço Forjado com um cristal de vobrita",
+  
+	"art_of_forging.advancements.materials.endsteel_ingot.title": "Materiais do Fim do Jogo",
+	"art_of_forging.advancements.materials.endsteel_ingot.description": "Crie um lingote de Aço do Fim infundindo um lingote de Aço Forjado com bafo de dragão",
+  
+	"art_of_forging.advancements.materials.find_demonic_item.title": "Antigo e Maligno",
+	"art_of_forging.advancements.materials.find_demonic_item.description": "Encontre um item demoníaco em um baú da Cidade Antiga",
+  
+	"art_of_forging.advancements.materials.find_all_demonic_items.title": "Deleites Malignos Geram Fins Malignos",
+	"art_of_forging.advancements.materials.find_all_demonic_items.description": "Obtenha todos os três artefatos demoníacos",
+  
+	"art_of_forging.advancements.materials.sigil_of_eden.title": "Leve-me de Volta ao Éden",
+	"art_of_forging.advancements.materials.sigil_of_eden.description": "Obtenha um Sigilo do Éden, ocasionalmente dropado pelo Wither",
+  
+	"tetra.advancements.spelunking.find_nano_insectoid.title": "Nanomáquinas",
+	"tetra.advancements.spelunking.find_nano_insectoid.description": "Saqueie um contêiner forjado e encontre um nano-insetoide",
+  
+	"tetra.advancements.spelunking.craft_shockwave_chamber.title": "Sobrecarga de Hardware",
+	"tetra.advancements.spelunking.craft_shockwave_chamber.description": "Crie uma câmara de onda de choque usando uma câmara de combustão, estabilizador planar e cristais de vobrita",
+
+	"tetra.advancements.spelunking.find_canister.title": "Segredos Codificados",
+	"tetra.advancements.spelunking.find_canister.description": "Encontre um Cilindro Codificado em um contêiner forjado",
+  
+	"tetra.advancements.spelunking.find_codex.title": "Verdades Ocultas",
+	"tetra.advancements.spelunking.find_codex.description": "Encontre um Códice Esotérico em um contêiner forjado",
+  
+	"tetra.advancements.spelunking.craft_architects_mark.title": "Conhecimento Proibido",
+	"tetra.advancements.spelunking.craft_architects_mark.description": "Crie o Apócrifo do Arquiteto usando um Cilindro Codificado e um Códice Esotérico",
+  
+	"tetra.advancements.spelunking.shockwave_hammer.title": "Relâmpago em uma Marreta",
+	"tetra.advancements.spelunking.shockwave_hammer.description": "Crie uma Marreta de Onda de Choque usando uma câmara de onda de choque",
+  
+	"tetra.advancements.spelunking.devils_soul_gem.title": "Ai Yo",
+	"tetra.advancements.spelunking.devils_soul_gem.description": "Obtenha um Orbe Negro derrotando o Wither usando um item nano-infundido",
+  
+	"tetra.advancements.spelunking.eerie_shard.title": "Para Derrotar o Inderrotável",
+	"tetra.advancements.spelunking.eerie_shard.description": "Mate um Warden e obtenha seu fragmento assustador usando um item nano-infundido",
+  
+	"item.tetra.scroll.art_of_forging.details": "§l§nA Arte da Forja§r\\n Forjar, a prática de moldar metal em qualquer coisa que você desejar. Embora antes fosse uma prática cobiçada da qual apenas os Ferreiros Antigos e o Deus da Forja podiam participar, descobri um novo método de criar suas próprias ferramentas. Libero meu conhecimento para vocês, na esperança de que vocês eventualmente forjem suas próprias obras-primas. \r§l§nFlamberges§r\\n A flamberge. Não apenas impressionante no uso em batalha, mas também de um design deslumbrante. Ela carrega a icônica lâmina ondulada, perfeita para desferir um golpe que deixa seu oponente sangrando. Talvez de design intencional ou não intencional, pode-se afiar a lâmina para incendiar os inimigos uma vez feridos. \r§l§nLabris§r\\n Uma arma forte e clássica. Usada principalmente para cerco, e por um bom motivo; esta arma combina as características de uma lâmina, machado e arma de haste em uma só. Melhor para penetrar na armadura de seus inimigos, bem como desmontar e danificar inimigos de suas montarias. \r§l§nMaças§r\\n Maças; uma arma mortal para qualquer oponente blindado. Esta arma contundente ignorará a armadura, deixando golpes devastadores. Ao custo de velocidade, é claro. Uma arma terrível para se ter em seu arsenal, um conquistador no campo de batalha. \r§l§nDreadnought§r\\n O stave dreadnought é a mistura perfeita de velocidade e fúria, permitindo que o arqueiro envie uma barragem de flechas sobre seus inimigos. Perfeito para derrubar aqueles que estão em seu caminho e perfeito para realizar vingança. Isso pode ser usado em arcos e bestas padrão. \r§l§nKatana§r\\n Uma lâmina proveniente dos cantos mais orientais deste mundo. A combinação de uma lâmina balanceada e habilidade artesanal cuidadosa, esta lâmina é adequada para qualquer pessoa que queira uma arma de qualidade. Uma katana pode cortar qualquer coisa em pedaços e fragmentos. \r§l§nCorda Composta§r\\n Cordas compostas, feitas trançando duas cordas de arco em vez de apenas uma. Embora diminua a velocidade de tração, ela compensa com poder bruto, dando às flechas um impacto mais forte do que uma corda de arco típica. Combinar com um stave dreadnought é a combinação perfeita para guerra à distância. \r§l§nMarreta de Pedreira§r\\n A marreta tem um potencial oculto dentro dela. Ao utilizar um nicho específico dentro dela, você pode desbloquear a Marreta de Pedreira. Esta marreta é ideal para perfurar túneis e buracos, capaz de rasgar a terra com pouco esforço. Se você quer uma ferramenta que possa lidar rapidamente com pedras e minérios, então você encontrou o item perfeito para você. \n§l§nLâmina Tonal§r\\n Uma lâmina, cuidadosamente formada com semelhança a um instrumento, esta arma compensa seu baixo dano com sua habilidade única. A lâmina é capaz de sintonizar as frequências ressonantes de um inimigo, fazendo com que ele fique desorientado por um bom tempo. \r§c§l§nO Crisol§r\\n §kA página está incompreensível e rasgada. Talvez algo esteja faltando?§r",
+  
+	"item.tetra.scroll.otherworldly.details": "§l§nDE OUTRO MUNDO§r\\n Depois de brincar com um portal arruinado abandonado, consegui encontrar uma ligação entre este mundo e outros mundos através deste reino estrangeiro da realidade.",
+  
+	"item.tetra.scroll.true_crucible.details": "§c§l§nO Crisol§r\\n O Crisol, uma lâmina poderosa forjada a partir de malícia e rancor. Embora seja uma arma potente por si só, forjá-la da mesma forma que o Arquiteto fez permite que a lâmina ganhe propriedades esotéricas, convertendo parte de seu dano físico em metafísico."
+}

@@ -1,0 +1,11 @@
+{
+  "enchantment.random_crits.safeguard": "Safeguard",
+  "subtitles.randomcrit": "Critical hit",
+  "enchantment.random_crits.vitality": "Vitality",
+  "enchantment.random_crits.starstruck": "Starstruck",
+  "effect.random_crits.adrenaline": "Adrenaline",
+  "enchantment.random_crits.starstruck.desc": "Increases Critical Hit chance.",
+  "enchantment.random_crits.vitality.desc": "Chance to gain Absorption on Critical Hit.",
+  "enchantment.random_crits.safeguard.desc": "Reduce Damage from incoming Critical Hits.",
+  "random_crits.critchance": "Crit Chance"
+}

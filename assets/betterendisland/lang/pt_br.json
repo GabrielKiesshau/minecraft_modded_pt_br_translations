@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_20.title": "Ilha Better End de YUNG",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.resummonedDragonDropsEgg": "Dragão Ressuscitado Dropa Ovo",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.resummonedDragonDropsEgg.@Tooltip": "Se o Ender Dragon dropa um ovo toda vez que é derrotado",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.useVanillaSpawnPlatform": "Usar Plataforma de Obsidiana Vanilla para o Spawn",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.useVanillaSpawnPlatform.@Tooltip": "Se a plataforma de obsidiana vanilla deve aparecer no End em vez da plataforma reformulada"
+}

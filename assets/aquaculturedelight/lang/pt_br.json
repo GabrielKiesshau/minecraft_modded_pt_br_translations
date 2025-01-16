@@ -1,0 +1,22 @@
+{
+  "item.aquaculturedelight.neptunium_knife": "Faca de Neptúnio",
+  "item.aquaculturedelight.large_fish_with_vegetables": "Peixe Grande com Legumes",
+  "item.aquaculturedelight.baked_pollock_with_carrots": "Pollock Assado com Cenouras",
+  "item.aquaculturedelight.tuna_spaghetti": "Espaguete de Atum",
+  "item.aquaculturedelight.turtle_meat_dish": "Prato de Carne de Tartaruga",
+  "item.aquaculturedelight.jellyfish_jelly": "Geleia de Água-viva",
+  "item.aquaculturedelight.buckling": "Arenque Defumado",
+  "item.aquaculturedelight.poor_fisher_chowder": "Ensopado do Pescador Azarado",
+  "item.aquaculturedelight.catfish_barbecue": "Churrasco de Bagre",
+  "item_group.aquaculturedelight.aquaculture_delight_tab": "Delícias da Aquicultura",
+  "item.aquaculturedelight.halibut_with_tartar_sauce": "Halibute com Molho Tártaro",
+  "item.aquaculturedelight.rollmops": "Rollmops",
+  "item.aquaculturedelight.bass_stew": "Ensopado de Robalo",
+  "item.aquaculturedelight.halaszle": "Halaszle",
+  "item.aquaculturedelight.frog_leg_soup": "Sopa de Pernas de Rã",
+  "item.aquaculturedelight.raw_fish_fillet_roll": "Rolo de Filé de Peixe Cru",
+  "item.aquaculturedelight.cooked_small_turtle_meat": "Carne de Tartaruga Pequena Cozida",
+  "item.aquaculturedelight.small_turtle_meat": "Carne de Tartaruga Pequena",
+  "itemGroup.tabaquaculture_delight_tab": "Delícias da Aquicultura",
+  "item.aquaculturedelight.unusual_fish_soup": "Sopa de Peixe Incomum"
+}

@@ -1,0 +1,6 @@
+{
+	"block.ars_creo.starbuncle_wheel": "Roda de Starbuncle",
+	"ars_creo.page.starbuncle_wheel": "Gera força rotacional para o mod Create. Colocar um bloco de ouro na frente da roda aumentará o RPM.",
+	"ars_creo.page.behaviors": "O Ars Creo habilita comportamentos especiais para blocos do Ars Nouveau em construções, incluindo Torres de Feitiço e Potes de Fonte. Torre de Feitiço Básica - Lança um feitiço na construção ao ser interagida. Torre com Temporizador - Lança um feitiço em intervalos. Torre de Feitiço Encantada - Lança um feitiço a cada novo bloco visitado. Pote de Fonte - Pode ser consumido por torres em uma construção.",
+	"itemGroup.ars_creo.general": "Ars Creo"
+}

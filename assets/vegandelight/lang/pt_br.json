@@ -1,0 +1,47 @@
+{
+  "item.vegandelight.tofu": "Tofu",
+  "item.vegandelight.silken_tofu": "Tofu Sedoso",
+  "item.vegandelight.minced_tofu": "Tofu Moído",
+  "item.vegandelight.tofu_slices": "Fatias de Tofu",
+  "item.vegandelight.tofish": "Tofu Peixe",
+  "item.vegandelight.tofish_slices": "Fatias de Tofu Peixe",
+  "item.vegandelight.tofish_roll": "Enrolado de Tofu Peixe",
+  "item.vegandelight.tofu_patty": "Hambúrguer de Tofu",
+
+  "item.vegandelight.smoked_tofu": "Tofu Defumado",
+  "item.vegandelight.smoked_tofish": "Tofu Peixe Defumado",
+  "item.vegandelight.smoked_tofish_roll": "Enrolado de Tofu Peixe Defumado",
+  "item.vegandelight.smoked_tofu_slices": "Fatias de Tofu Defumado",
+
+  "item.vegandelight.cooked_tofu": "Tofu Cozido",
+  "item.vegandelight.cooked_tofu_slices": "Fatias de Tofu Cozido",
+  "item.vegandelight.cooked_tofish": "Tofu Peixe Cozido",
+
+  "item.vegandelight.cooked_smoked_tofu": "Tofu Defumado Cozido",
+  "item.vegandelight.cooked_smoked_tofish": "Tofu Peixe Defumado Cozido",
+  "item.vegandelight.cooked_smoked_tofu_slices": "Fatias de Tofu Defumado Cozido",
+
+  "item.vegandelight.salt": "Sal",
+  "item.vegandelight.soybean": "Grão de Soja",
+  "fluid_type.vegandelight.soymilk": "Leite de Soja",
+  "item.vegandelight.soymilk_bottle": "Garrafa de Leite de Soja",
+  "item.vegandelight.soymilk_bucket": "Balde de Leite de Soja",
+  "item.vegandelight.leather_substitute": "Substituto de Couro",
+
+  "farmersdelight.tooltip.soymilk_bottle": "Remove 1 Efeito",
+  "farmersdelight.tooltip.soymilk_bucket": "Remove 1 Efeito",
+
+  "item.vegandelight.pasta_with_tofuballs": "Massa com Bolinhas de Tofu",
+  "item.vegandelight.roasted_tofu_chops": "Costeletas de Tofu Assadas",
+  "item.vegandelight.tofu_burger": "Hambúrguer de Tofu",
+  "item.vegandelight.tofu_sandwich": "Sanduíche de Tofu",
+
+  "item.vegandelight.applesauce": "Purê de Maçã",
+  "item.vegandelight.applesauce_bucket": "Balde de Purê de Maçã",
+  "fluid_type.vegandelight.applesauce": "Purê de Maçã",
+
+  "block.vegandelight.soybean_bag": "Saco de Grãos de Soja",
+  "block.vegandelight.wild_soybean": "Soja Selvagem",
+
+  "creativetab.vegan_tab": "Delícias Veganas"
+}

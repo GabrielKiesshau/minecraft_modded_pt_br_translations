@@ -1,0 +1,16 @@
+{
+    "carryon.category.settings": "Configurações",
+    "carryon.category.blacklist": "Lista Negra",
+    "carryon.category.modeloverrides": "Substituições de Modelo (Avançado)",
+    "carryon.category.custompickupconditions": "Condições de Coleta Personalizadas (Avançado)",
+    "carryon.category.whitelist": "Lista Branca",
+
+    "carryon.general.modeloverrides.modeloverrides": "Substituições de Modelo",
+    "carryon.general.blacklist.forbiddenentities": "Entidades que o Jogador não pode pegar",
+    "carryon.general.blacklist.forbiddentiles": "Blocos que o Jogador não pode pegar",
+    "carryon.category.custompickupconditions.custompickupconditionsblocks": "Condições Personalizadas de Coleta de Blocos",
+    "carryon.category.custompickupconditions.custompickupconditionsentities": "Condições Personalizadas de Coleta de Entidades",
+
+    "key.carry.desc": "Carregar",
+    "key.carry.category": "Carry On"
+}

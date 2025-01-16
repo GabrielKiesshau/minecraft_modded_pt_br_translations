@@ -1,0 +1,29 @@
+{
+  "make_bubbles_pop.midnightconfig.title": "Configuração do Estouro de Bolhas",
+  "make_bubbles_pop.midnightconfig.empty": "",
+  "make_bubbles_pop.midnightconfig.additional_features": "Recursos Adicionais",
+
+  "make_bubbles_pop.midnightconfig.POP_PARTICLE_ENABLED": "Habilitar Partículas de Estouro de Bolhas",
+  "make_bubbles_pop.midnightconfig.POP_PARTICLE_ENABLED.tooltip": "Padrão: §aSim§f",
+  "make_bubbles_pop.midnightconfig.BUBBLE_POP_VOLUME": " └ Volume do Som de Estouro da Bolha",
+  "make_bubbles_pop.midnightconfig.BUBBLE_POP_VOLUME.tooltip": "Padrão: §b10%§f",
+  "make_bubbles_pop.midnightconfig.POPPED_BUBBLES_MAINTAIN_VELOCITY": " └ Manter a velocidade da bolha para as partículas de estouro",
+  "make_bubbles_pop.midnightconfig.POPPED_BUBBLES_MAINTAIN_VELOCITY.tooltip": "Padrão: §cNão§f",
+
+  "make_bubbles_pop.midnightconfig.BUBBLE_PHYSICS_ENABLED": "Habilitar Física das Bolhas",
+  "make_bubbles_pop.midnightconfig.BUBBLE_PHYSICS_ENABLED.tooltip": "Habilita a física revisada das bolhas ao colidir com blocos ou entidades. \nPadrão: §aSim§f \n§dℹ Nota:§f Isso não funciona atualmente para bolhas de areia de almas ou blocos de magma.",
+  "make_bubbles_pop.midnightconfig.BUBBLE_LIFETIME_MULTIPLIER": " └ Tempo de Vida Médio da Partícula de Bolha",
+  "make_bubbles_pop.midnightconfig.BUBBLE_LIFETIME_MULTIPLIER.tooltip": "O tempo que uma bolha leva para estourar debaixo d'água. \nPor padrão, isso é definido como mais longo do que no vanilla para permitir que as bolhas atinjam a superfície da água. \nPadrão: §b32.0§f §7(Vanilla: 8.0)§f",
+  "make_bubbles_pop.midnightconfig.BIOME_COLORS_ENABLED": "Habilitar Cores de Bolha Dependentes do Bioma",
+  "make_bubbles_pop.midnightconfig.BIOME_COLORS_ENABLED.tooltip": "Aplica tons a todos os tipos de bolhas, dependendo da cor da água. \nPadrão: §aSim§f",
+  "make_bubbles_pop.midnightconfig.BIOME_COLOR_INTENSITY": " └ Intensidade da Cor do Bioma da Bolha",
+  "make_bubbles_pop.midnightconfig.BIOME_COLOR_INTENSITY.tooltip": "Padrão: §b65%§f",
+  "make_bubbles_pop.midnightconfig.CHEST_BUBBLES_ENABLED": "Habilitar Bolhas de Baú",
+  "make_bubbles_pop.midnightconfig.CHEST_BUBBLES_ENABLED.tooltip": "Padrão: §aSim§f",
+  "make_bubbles_pop.midnightconfig.BARREL_BUBBLES_ENABLED": "Habilitar Bolhas de Barril",
+  "make_bubbles_pop.midnightconfig.BARREL_BUBBLES_ENABLED.tooltip": "Padrão: §aSim§f",
+  "make_bubbles_pop.midnightconfig.CONTAINER_SOUND_ENABLED": " └ Habilitar som ao abrir baús ou barris debaixo d'água",
+  "make_bubbles_pop.midnightconfig.CONTAINER_SOUND_ENABLED.tooltip": "Padrão: §aSim§f",
+  "make_bubbles_pop.midnightconfig.EXPLOSION_BUBBLES_ENABLED": "Habilitar Bolhas de Explosão",
+  "make_bubbles_pop.midnightconfig.EXPLOSION_BUBBLES_ENABLED.tooltip": "Padrão: §aSim§f"
+}

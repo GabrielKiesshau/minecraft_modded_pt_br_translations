@@ -1,0 +1,74 @@
+{
+    "category.wildfire_gender.generic": "Mod de Gênero Feminino do Wildfire",
+    "key.wildfire_gender.gender_menu": "Menu de Gênero Feminino",
+    "toast.wildfire_gender.get_started": "Pressione '%s' para começar!",
+
+    "wildfire_gender.hurt.female": "Jogador Feminino Ferido",
+
+    "wildfire_gender.player_list.title": "Mod de Gênero Feminino do Wildfire",
+    "wildfire_gender.player_list.settings_button": "Configurações",
+    "wildfire_gender.player_list.sync_status": "Status de Sincronização",
+    "wildfire_gender.player_list.state.loading": "Carregando Dados...",
+    "wildfire_gender.player_list.state.synced": "Jogador Sincronizado",
+
+    "wildfire_gender.wardrobe.title": "Mod de Gênero Feminino do Wildfire",
+    "wildfire_gender.breast_customization.tab_customization": "Customização",
+    "wildfire_gender.breast_customization.tab_presets": "Predefinições",
+
+    "wildfire_gender.breast_customization.presets.add_new": "Adicionar Novo...",
+    "wildfire_gender.breast_customization.presets.delete": "Excluir",
+    "wildfire_gender.breast_customization.presets.none": "Nenhuma Predefinição Encontrada",
+
+    "wildfire_gender.wardrobe.slider.breast_size": "Tamanho dos Seios: %s%%",
+    "wildfire_gender.wardrobe.slider.separation": "Separação: %s",
+    "wildfire_gender.wardrobe.slider.height": "Altura: %s",
+    "wildfire_gender.wardrobe.slider.depth": "Profundidade: %s",
+    "wildfire_gender.wardrobe.slider.rotation": "Rotação: %s graus",
+
+	"wildfire_gender.appearance_settings.title": "Configurações de Aparência",
+	"wildfire_gender.char_settings.title": "Configurações do Personagem",
+	"wildfire_gender.char_settings.physics": "Física dos Seios: %s",
+	"wildfire_gender.char_settings.override_armor_physics": "Física da Armadura: %s",
+	"wildfire_gender.tooltip.override_armor_physics.line1": "A física dos seios não será mais reduzida/suprimida pela armadura equipada enquanto estiver habilitada",
+	"wildfire_gender.tooltip.override_armor_physics.line2": "Isso se destina ao uso com pacotes de recursos que ocultam armaduras ou qualquer pacote de armadura minimalista similar",
+	"wildfire_gender.char_settings.hide_in_armor": "Ocultar em Armadura: %s",
+	"wildfire_gender.tooltip.hide_in_armor": "Ocultar o Modelo dos Seios ao Usar Armaduras",
+	"wildfire_gender.char_settings.hurt_sounds": "Sons de Dano Feminino: %s",
+	"wildfire_gender.tooltip.hurt_sounds": "Habilita os Sons de Dano Feminino",
+  
+	"wildfire_gender.breast_customization.dual_physics": "Física Dupla: %s",
+  
+	"wildfire_gender.player_list.bounce_multiplier": "Multiplicador de Balanço: %sx",
+	"wildfire_gender.player_list.breast_momentum": "Impulso dos Seios: %s%%",
+	"wildfire_gender.player_list.female_sounds": "Sons Femininos: %s",
+  
+	"wildfire_gender.settings.title": "Menu de Configurações do Wildfire",
+  
+	"wildfire_gender.acknowledge.confirm": "Confirmar",
+  
+	"wildfire_gender.label.gender": "Gênero",
+	"wildfire_gender.label.female": "Feminino",
+	"wildfire_gender.label.male": "Masculino",
+	"wildfire_gender.label.other": "Outro",
+  
+	"wildfire_gender.label.enabled": "Habilitado",
+	"wildfire_gender.label.disabled": "Desabilitado",
+	"wildfire_gender.label.yes": "Sim",
+	"wildfire_gender.label.no": "Não",
+	"wildfire_gender.label.too_far": "Muito Longe",
+	"wildfire_gender.label.with_creator": "Você está jogando em um servidor com o criador deste mod!",
+
+    "wildfire_gender.slider.bounce": "Intensidade do Balanço: %sx",
+    "wildfire_gender.slider.floppy": "Impulso dos Seios: %s%%",
+    "wildfire_gender.slider.min_bounce": "Por Que a Física Está Ligada?",
+    "wildfire_gender.slider.max_bounce": "Física de Seios de Anime!!!",
+    "wildfire_gender.tooltip.bounce_warning": "Definir 'Intensidade do Balanço' para um valor alto resultará em uma aparência muito artificial!",
+
+    "wildfire_gender.cancer_awareness.title": "Ei, é o Mês de Conscientização sobre o Câncer de Mama!",
+    "wildfire_gender.cancer_awareness.description": "Clique aqui para doar para a §dFundação Susan G. Komen§f!",
+    "wildfire_gender.coming_soon": "Em breve",
+
+    "wildfire_gender.config.client": "Configuração do Cliente. Esta configuração existe apenas no cliente",
+    "wildfire_gender.config.client.disable_rendering": "Substituição global para desabilitar toda a renderização relacionada ao mod (incluindo nos menus de gênero)",
+    "wildfire_gender.config.client.disable_sound_replacement": "Substituição global para desabilitar a substituição de sons de jogadores por variantes femininas"
+}

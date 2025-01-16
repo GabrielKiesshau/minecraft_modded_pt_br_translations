@@ -1,0 +1,5 @@
+{
+  "key.geotagged_screenshots.enrich_existing_screenshots": "Enriquecer capturas de tela",
+  "message.geotagged_screenshots.started_thumbnail_regeneration": "Regenerando miniaturas para {0} capturas de tela",
+  "message.geotagged_screenshots.completed_thumbnail_regeneration": "Regeneração de {0} miniaturas concluída"
+}

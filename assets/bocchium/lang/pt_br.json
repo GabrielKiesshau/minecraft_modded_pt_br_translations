@@ -1,0 +1,8 @@
+{
+  "bocchium.cull_top": "Deve Ocultar o Topo",
+  "bocchium.cull_top.tooltip": "Se o bloco de renderização estiver no topo da dimensão semelhante ao Nether, desative a renderização do seu lado superior.",
+  "bocchium.cull_bottom": "Deve Ocultar a Base",
+  "bocchium.cull_bottom.tooltip": "Se o bloco de renderização estiver na base da dimensão, desative a renderização do seu lado inferior.",
+  "bocchium.enable": "Ativar Bocchium",
+  "bocchium.desc": "Bocchium é um mod de desempenho que oculta as rochas matriz inferiores e superiores nas dimensões para obter Fps extras"
+}

@@ -1,0 +1,17 @@
+{
+  "item.starmetal.star_metal": "Metal Estelar",
+  "item.starmetal.star_metal.desc": "Este metal estranho possui propriedades de autocura.",
+  "item.starmetal.star_fragment": "Fragmento Estelar",
+
+  "sounds.starmetal.star_metal_spawn": "Um estrondo alto ecoa das estrelas",
+
+  "commands.starmetals.help1": "Metais Estelares - Alternativa para Livro de Remendo",
+  "commands.starmetals.help2": "/starmetals reset_spawn_timer - Reinicia o Tempo de Surgimento Atual. Isso é especialmente útil ao alterar as configurações de tempo de surgimento no arquivo de configuração.",
+  "commands.starmetals.help3": "/starmetals force_spawn - Força o surgimento de um Fragmento de Metal Estelar acima. Isso não afeta o tempo de surgimento atual e o jogador deve estar no Modo Criativo ou ter os Cheats Ativados.",
+  "commands.starmetals.help4": "",
+  "commands.starmetals.reset": "O Tempo de Surgimento foi reiniciado!",
+  "commands.starmetals.force_starfall": "Olhe para as estrelas! Um novo Fragmento de Metal Estelar apareceu.",
+
+  "advancements.adventure.chase_a_falling_star.title": "Persiga uma Estrela Cadente",
+  "advancements.adventure.chase_a_falling_star.description": "Encontre um Metal Estelar ou um Fragmento Estelar"
+}

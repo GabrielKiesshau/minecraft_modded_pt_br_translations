@@ -1,0 +1,6 @@
+{
+  "Use /locate structure betteroceanmonuments:ocean_monument instead!": "Use /locate structure betteroceanmonuments:ocean_monument instead!",
+  "text.autoconfig.betteroceanmonuments-fabric-1_20.title": "Monumentos Oceânicos Aprimorados de YUNG",
+  "text.autoconfig.betteroceanmonuments-fabric-1_20.option.general.disableVanillaMonuments": "Desativar Monumentos Oceânicos Vanilla",
+  "text.autoconfig.betteroceanmonuments-fabric-1_20.option.general.disableVanillaMonuments.@Tooltip": "Se os monumentos oceânicos vanilla devem ou não ser desativados."
+}

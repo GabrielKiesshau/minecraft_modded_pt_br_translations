@@ -1,0 +1,29 @@
+{
+  "itemGroup.culturalTab": "Delícias Culturais",
+
+  "item.alexsdelight.cooked_bison": "Bisonte Cozido",
+  "item.alexsdelight.raw_bison": "Bisonte Cru",
+  "item.alexsdelight.cooked_bunfungus": "Bunfungo Cozido",
+  "item.alexsdelight.raw_bunfungus": "Bunfungo Cru",
+  "item.alexsdelight.cooked_centipede_leg": "Pata de Centopeia Cozida",
+
+  "item.alexsdelight.kangaroo_shank": "Coxa de Canguru",
+  "item.alexsdelight.cooked_kangaroo_shank": "Coxa de Canguru Cozida",
+  "item.alexsdelight.loose_moose_rib": "Costela de Alce",
+  "item.alexsdelight.cooked_loose_moose_rib": "Costela de Alce Cozida",
+  "item.alexsdelight.bison_mince": "Carne Moída de Bisonte",
+  "item.alexsdelight.bison_patty": "Hambúrguer de Bisonte",
+  "item.alexsdelight.raw_bunfungus_drumstick": "Coxa de Bunfungo Crua",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "Coxa de Bunfungo Cozida",
+  "item.alexsdelight.raw_catfish_slice": "Fatias de Bagre Cru",
+  "item.alexsdelight.cooked_catfish_slice": "Fatias de Bagre Cozido",
+
+  "item.alexsdelight.gongylidia_bruschetta": "Bruschetta de Gongylidia",
+  "item.alexsdelight.maggot_salad": "Salada de Larvas",
+  "item.alexsdelight.kangaroo_stew": "Ensopado de Canguru",
+  "item.alexsdelight.acacia_blossom_soup": "Sopa de Flor de Acácia",
+  "item.alexsdelight.lobster_pasta": "Massa com Lagosta",
+  "item.alexsdelight.bison_burger": "Hambúrguer de Bisonte",
+  "item.alexsdelight.bunfungus_sandwich": "Sanduíche de Bunfungo",
+  "item.alexsdelight.kangaroo_pasta": "Massa de Canguru"
+}

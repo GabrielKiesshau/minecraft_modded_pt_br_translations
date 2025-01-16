@@ -1,0 +1,15 @@
+{
+  "block.dynamites_overhaul.bomb": "Bomba",
+  "block.dynamites_overhaul.small_tnt": "TNT Pequena",
+  "item.dynamites_overhaul.red_paper": "Papel Vermelho",
+  "item.caboom.red_paper": "Papel Vermelho",
+  "block.caboom.large_bunch_of_tnts": "Grande Pacote de TNTs",
+  "item_group.caboom.caboom": "Caboom",
+  "item_group.dynamites_overhaul.caboom": "Caboom",
+  "block.dynamites_overhaul.large_bunch_of_tnts": "Grande Pacote de TNTs",
+  "entity.minecraft.villager.dynamites_overhaul.exploder_profession": "Explodidor",
+  "block.caboom.bunch_of_tnts": "Pacote de TNTs",
+  "block.dynamites_overhaul.bunch_of_tnts": "Pacote de TNTs",
+  "block.caboom.small_tnt": "TNT Pequena",
+  "itemGroup.tab_caboom": "Caboom"
+}

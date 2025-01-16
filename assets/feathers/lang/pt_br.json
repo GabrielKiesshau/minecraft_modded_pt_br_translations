@@ -1,0 +1,47 @@
+{
+    "feathers.max_feathers": "Penas Máximas",
+    "feathers.feather_regen": "Recuperação de Penas",
+
+    "effect.feathers.endurance": "Resistência",
+    "item.minecraft.potion.effect.endurance_potion": "Poção de Resistência",
+    "item.minecraft.splash_potion.effect.endurance_potion": "Poção Borrifante de Resistência",
+    "item.minecraft.lingering_potion.effect.endurance_potion": "Poção Persistente de Resistência",
+    "item.minecraft.tipped_arrow.effect.endurance_potion": "Flecha de Resistência",
+
+    "item.minecraft.potion.effect.long_endurance_potion": "Poção de Resistência (Longa Duração)",
+    "item.minecraft.splash_potion.effect.long_endurance_potion": "Poção Borrifante de Resistência (Longa Duração)",
+    "item.minecraft.lingering_potion.effect.long_endurance_potion": "Poção Persistente de Resistência (Longa Duração)",
+    "item.minecraft.tipped_arrow.effect.long_endurance_potion": "Flecha de Resistência (Longa Duração)",
+
+    "item.minecraft.potion.effect.strong_endurance_potion": "Poção de Resistência (Potente)",
+    "item.minecraft.splash_potion.effect.strong_endurance_potion": "Poção Borrifante de Resistência (Potente)",
+    "item.minecraft.lingering_potion.effect.strong_endurance_potion": "Poção Persistente de Resistência (Potente)",
+    "item.minecraft.tipped_arrow.effect.strong_endurance_potion": "Flecha de Resistência (Potente)",
+
+    "effect.feathers.cold": "Frio",
+    "item.minecraft.potion.effect.cold_potion": "Poção de Frieza",
+    "item.minecraft.splash_potion.effect.cold_potion": "Poção Borrifante de Frieza",
+    "item.minecraft.lingering_potion.effect.cold_potion": "Poção Persistente de Frieza",
+    "item.minecraft.tipped_arrow.effect.cold_potion": "Flecha de Frieza",
+
+    "effect.feathers.energized": "Energizado",
+    "item.minecraft.potion.effect.energized_potion": "Poção de Energia",
+    "item.minecraft.splash_potion.effect.energized_potion": "Poção Borrifante de Energia",
+    "item.minecraft.lingering_potion.effect.energized_potion": "Poção Persistente de Energia",
+    "item.minecraft.tipped_arrow.effect.energized_potion": "Flecha de Energia",
+
+    "item.minecraft.potion.effect.strong_energized_potion": "Poção de Energia (Potente)",
+    "item.minecraft.splash_potion.effect.strong_energized_potion": "Poção Borrifante de Energia (Potente)",
+    "item.minecraft.lingering_potion.effect.strong_energized_potion": "Poção Persistente de Energia (Potente)",
+    "item.minecraft.tipped_arrow.effect.strong_energized_potion": "Flecha de Energia (Potente)",
+
+    "item.minecraft.potion.effect.long_energized_potion": "Poção de Energia (Longa Duração)",
+    "item.minecraft.splash_potion.effect.long_energized_potion": "Poção Borrifante de Energia (Longa Duração)",
+    "item.minecraft.lingering_potion.effect.long_energized_potion": "Poção Persistente de Energia (Longa Duração)",
+    "item.minecraft.tipped_arrow.effect.long_energized_potion": "Flecha de Energia (Longa Duração)",
+
+    "enchantment.feathers.lightweight": "Leveza",
+    "enchantment.feathers.heavy": "Maldição da Pesadez",
+
+    "text.feathers.tooltip": "+%s de Peso"
+}
