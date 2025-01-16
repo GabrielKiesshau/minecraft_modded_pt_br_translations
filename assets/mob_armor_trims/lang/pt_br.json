@@ -1,0 +1,29 @@
+{
+  "mob_armor_trims.config.general": "Geral",
+  "mob_armor_trims.config.general.tooltip": "Configurações gerais para este mod.",
+  "mob_armor_trims.config.general.trimSystem": "Sistema de Adornos",
+  "mob_armor_trims.config.general.trimSystem.description": "Selecione o sistema de como selecionar quais adornos dar aos mobs.\n- Adornos Aleatórios: Escolhe aleatoriamente o adorno, mas também leva muito em consideração o adorno anterior.\n- Adornos Personalizados: Escolhe o adorno de uma lista de adornos personalizados. Você pode gerenciar os adornos você mesmo.",
+  "mob_armor_trims.config.general.noTrimsChance": "Chance de Não Ter Adornos",
+  "mob_armor_trims.config.general.noTrimsChance.description": "Chance do mob não ter nenhum adorno.",
+
+  "mob_armor_trims.config.randomTrims": "Adornos Aleatórios",
+  "mob_armor_trims.config.randomTrims.tooltip": "Configurações para o Sistema de Adornos Aleatórios.\nEssas configurações só farão diferença se o sistema de adornos aleatórios estiver ativado.",
+  "mob_armor_trims.config.randomTrims.trimChance": "Chance de Adorno",
+  "mob_armor_trims.config.randomTrims.trimChance.description": "Chance de cada peça de armadura de um mob ter um adorno.",
+  "mob_armor_trims.config.randomTrims.similarTrimChance": "Chance de Adorno Semelhante",
+  "mob_armor_trims.config.randomTrims.similarTrimChance.description": "Chance de cada peça de armadura ter um adorno semelhante à peça de armadura anterior.",
+
+  "mob_armor_trims.config.customTrimCombinations": "Combinações de Adornos Personalizados",
+  "mob_armor_trims.config.customTrimCombinations.tooltip": "Configurações para o Sistema de Combinações de Adornos Personalizados.\nEssas configurações só farão diferença se o sistema de combinações de adornos personalizados estiver ativado.",
+  "mob_armor_trims.config.customTrimCombinations.trimCombinations.description": "Gerencie as combinações de adornos personalizados aqui. Você pode adicionar, editar e remover combinações.\n\nNa primeira opção, insira o material da armadura ao qual a combinação pode ser aplicada.\nPor exemplo: \"ferro\".\n\nNas demais opções, insira os Adornos para cada peça de armadura.\nNa opção à esquerda, insira um material de adorno válido.\nPor exemplo: \"amethyst_shard\".\nNa opção à direita, insira um padrão de adorno válido.\nPor exemplo: \"silence\".\n\nPara não ter que especificar todo o padrão de adorno, você pode omitir a parte \"_armor_trim_smithing_template\" do padrão, pois é igual para todos os padrões.\n\nPara cada uma das opções, você verá uma pré-visualização.\nTer um ponto de interrogação ao lado da pré-visualização significa que o mod não pode verificar a validade da opção no ambiente atual. Isso acontece quando não está dentro de um mundo.\nSe a pré-visualização for uma barreira, a opção não é válida.",
+
+  "mob_armor_trims.config.stackedTrims": "Adornos Empilhados",
+  "mob_armor_trims.config.stackedTrims.tooltip": "Configurações para a compatibilidade com o mod Adornos de Armadura Empilhados.\nEssas configurações só farão diferença se o mod Adornos de Armadura Empilhados for usado e o Sistema de Adornos Aleatórios estiver ativado.",
+  "mob_armor_trims.config.stackedTrims.stackedTrimsChance": "Chance de Adornos Empilhados",
+  "mob_armor_trims.config.stackedTrims.stackedTrimsChance.description": "Chance de cada peça de armadura ter um adorno adicional quando o mod Adornos de Armadura Empilhados estiver ativado.",
+  "mob_armor_trims.config.stackedTrims.maxStackedTrims": "Máximo de Adornos Empilhados",
+  "mob_armor_trims.config.stackedTrims.maxStackedTrims.description": "A quantidade máxima de adornos de armadura que podem ser empilhados uns sobre os outros quando o mod Adornos de Armadura Empilhados estiver ativado.",
+
+  "mob_armor_trims.config.backup_screen.installYACL": "Instale o Yet Another Config Lib para acessar a tela de configuração.",
+  "mob_armor_trims.config.backup_screen.viewOnModrinth": "Ver no Modrinth"
+}

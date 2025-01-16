@@ -1,0 +1,46 @@
+{
+  "config.invmove.title": "Configuração do InvMove",
+  "key.invmove.category.general": "Geral",
+  "key.invmove.category.movement": "Movimento na Interface",
+  "key.invmove.category.background": "Fundo da Interface",
+
+  "config.invmove.general.enable": "Ativar Mod",
+  "tooltip.config.invmove.general.enable": "Ativa o mod por completo",
+  "config.invmove.general.debugDisplay": "Exibição de Depuração",
+  "tooltip.config.invmove.general.debugDisplay": "Ativa a exibição de depuração.",
+
+  "config.invmove.movement.enable": "Mover-se nos Inventários",
+  "tooltip.config.invmove.movement.enable": "Ativa o movimento dentro dos inventários.\nVocê pode desativar manualmente inventários específicos abaixo.\nExiste um atalho de teclado que você pode definir para alternar isso.",
+  "config.invmove.movement.sneak": "Modo de Agachamento",
+  "tooltip.config.invmove.movement.sneak": "Como lidar com o agachamento dentro dos inventários:\nDesligado = Sem agachamento\nMantido = Mantém o agachamento se você já estivesse agachado quando o inventário abriu\nPressionado = Agacha apenas enquanto o botão de agachar estiver pressionado\n(Pressionado pode ser distrativo ao clicar com shift)\n(Se estiver usando agachamento de alternância, Pressionado permite alternar e os outros dois modos mantêm)",
+  "config.invmove.movement.jump": "Permitir Pular",
+  "tooltip.config.invmove.movement.jump": "Permite pular dentro dos inventários.",
+  "config.invmove.movement.dismount": "Permitir Desmontar",
+  "tooltip.config.invmove.movement.dismount": "Permite desmontar dentro dos inventários.",
+  "config.invmove.movement.textFieldDisables": "Campo de Texto Desativa o Movimento",
+  "tooltip.config.invmove.movement.textFieldDisables": "Desativa o movimento nos inventários quando um campo de texto está em foco.",
+  "config.invmove.movement.unrecognizedScreenDefault": "Padrão para Telas Não Reconhecidas",
+  "tooltip.config.invmove.movement.unrecognizedScreenDefault": "Estado padrão para novas interfaces não reconhecidas.",
+
+  "config.invmove.background.enable": "Ocultar Fundos de Inventário",
+  "tooltip.config.invmove.background.enable": "Oculta a tonalidade de fundo dentro dos inventários.\nVocê pode desativar manualmente inventários específicos abaixo.",
+  "config.invmove.background.hideOnPause": "Fundo das Telas de Pausa",
+  "tooltip.config.invmove.background.hideOnPause": "Como lidar com telas que pausam o jogo:\nMostrar = Sempre mostrar o fundo\nMostrarSP = Mostrar o fundo no singleplayer, caso contrário, permitir ocultar\nPermitirOcultar = Permite que o fundo seja ocultado",
+  "config.invmove.background.unrecognizedScreenDefault": "Padrão para Telas Não Reconhecidas",
+  "tooltip.config.invmove.background.unrecognizedScreenDefault": "Estado padrão para novas interfaces não reconhecidas.",
+
+  "key.invmove.module.nooptions": "Este módulo não possui nenhuma opção.",
+
+  "key.invmove.unrecognized": "Tipos de Interface Não Reconhecidos",
+  "key.invmove.unrecognized.desc": "Interfaces gráficas não reconhecidas aparecem aqui após serem interagidas.",
+
+  "keycategory.invmove": "InvMove",
+  "keybind.invmove.toggleMove": "Alternar Movimento na Interface",
+
+  "key.invmove.module.vanilla": "Vanilla",
+
+  "config.invmove.vanilla.movement.horseInventory": "Inventário do Cavalo",
+  "config.invmove.vanilla.backgroundHide.horseInventory": "Inventário do Cavalo",
+  "tooltip.gui.advancements": "Este menu é uma tela de pausa, então esta opção pode ser substituída.",
+  "tooltip.item.minecraft.book": "Este menu é uma tela de pausa, então esta opção pode ser substituída."
+}

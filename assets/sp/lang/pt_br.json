@@ -1,0 +1,19 @@
+{
+  "block.sp.camera": "Câmera",
+  "block.sp.monitor": "Monitor",
+  "item.sp.flashlight_module": "Módulo de Lanterna",
+  "item.sp.lens_module": "Módulo de Lente",
+  "item.sp.mapper": "Mapeador",
+  "item.sp.motion_detector_module": "Módulo Detector de Movimento",
+  "item.sp.nightvision_module": "Módulo de Visão Noturna",
+  "item.sp.redstone_module": "Módulo de Redstone",
+  "item.sp.tablet": "Tablet",
+  "itemGroup.sp": "Pacote de Vigilância",
+  "key.category.sp.binds": "Atalhos da Câmera",
+  "key.sp.crawling": "Atalho de Engatinhar",
+  "key.sp.lock": "Bloquear Câmera",
+  "subtitles.block.camera.open": "Câmera selecionada",
+  "subtitles.flashlight.use": "Lanterna ativada",
+  "subtitles.item.tablet.use": "Tablet usado",
+  "subtitles.night_vision.use": "Visão Noturna ativada"
+}

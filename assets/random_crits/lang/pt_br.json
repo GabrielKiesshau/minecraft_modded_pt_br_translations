@@ -1,0 +1,11 @@
+{
+  "enchantment.random_crits.safeguard": "Salvaguarda",
+  "subtitles.randomcrit": "Acerto crítico",
+  "enchantment.random_crits.vitality": "Vitalidade",
+  "enchantment.random_crits.starstruck": "Estrela Cadente",
+  "effect.random_crits.adrenaline": "Adrenalina",
+  "enchantment.random_crits.starstruck.desc": "Aumenta a chance de Acerto Crítico.",
+  "enchantment.random_crits.vitality.desc": "Chance de ganhar Absorção em Acerto Crítico.",
+  "enchantment.random_crits.safeguard.desc": "Reduz o dano de Acertos Críticos recebidos.",
+  "random_crits.critchance": "Chance de Crítico"
+}

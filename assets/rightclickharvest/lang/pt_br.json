@@ -1,1 +1,15 @@
-{"rightclickharvest.jamlibconfig.title":"Configuração de colheita do botão direito","rightclickharvest.jamlibconfig.requireHoe":"Requer enxada","rightclickharvest.jamlibconfig.requireHoe.tooltip":"Apenas permita a colheita de certas culturas (por exemplo, trigo, cenoura) se o jogador estiver segurando uma enxada na mão.","rightclickharvest.jamlibconfig.harvestInRadius":"Colheita no raio","rightclickharvest.jamlibconfig.harvestInRadius.tooltip":"Faça enxadas de diferentes níveis colher vários blocos em um raio. Requer que `requireHoe` seja definido como true.","rightclickharvest.jamlibconfig.useHunger":"Use a Fome","rightclickharvest.jamlibconfig.useHunger.tooltip":"Use a fome ao colher colheitas."}
+{
+    "rightclickharvest.jamlibconfig.title": "Configuração de Colheita com Clique Direito",
+    "rightclickharvest.jamlibconfig.requireHoe": "Exigir Enxada",
+    "rightclickharvest.jamlibconfig.requireHoe.tooltip": "Permitir a colheita de certas plantações (ex: trigo, cenoura) apenas se o jogador estiver segurando uma enxada na mão.",
+    "rightclickharvest.jamlibconfig.harvestInRadius": "Colher em Raio",
+    "rightclickharvest.jamlibconfig.harvestInRadius.tooltip": "Fazer com que enxadas de diferentes níveis colham múltiplos blocos em um raio. Requer que `Exigir Enxada` esteja definido como verdadeiro.",
+    "rightclickharvest.jamlibconfig.useHunger": "Usar Fome",
+    "rightclickharvest.jamlibconfig.useHunger.tooltip": "Usar fome ao colher plantações.",
+    "rightclickharvest.jamlibconfig.hungerLevel": "Nível de Fome",
+    "rightclickharvest.jamlibconfig.hungerLevel.tooltip": "O consumo de comida ao colher plantações.",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.NONE": "Nenhum",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.LOW": "Baixo",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.NORMAL": "Normal",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.HIGH": "Alto"
+}

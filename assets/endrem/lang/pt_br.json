@@ -1,0 +1,118 @@
+{
+  "item.endrem.old_eye": "Olho Antigo",
+  "item.endrem.old_eye.description": "§7§oLendas dizem que este olho pertenceu a um dos grandes Vermes da Areia",
+
+  "item.endrem.rogue_eye": "Olho Ladino",
+  "item.endrem.rogue_eye.description": "§7§Acredita-se que este olho tenha dado aos nossos ancestrais o conhecimento de Redstone",
+
+  "item.endrem.nether_eye": "Olho do Nether",
+  "item.endrem.nether_eye.description": "§7§oFoi perdido por um demônio na batalha entre o Aether e o Nether",
+
+  "item.endrem.cold_eye": "Olho Frio",
+  "item.endrem.cold_eye.description": "§7§oUm dos últimos artefatos deixados pelos Iceologers antes que todos desaparecessem repentinamente do mundo",
+
+  "item.endrem.magical_eye": "Olho Mágico",
+  "item.endrem.magical_eye.description": "§7§oSem este olho, o Evocador não tem poder",
+
+  "item.endrem.black_eye": "Olho Negro",
+  "item.endrem.black_eye.description": "§7§oPiratas dizem que deu visão à lendária Pérola Negra",
+
+  "item.endrem.lost_eye": "Olho Perdido",
+  "item.endrem.lost_eye.description": "§7§oConta-se que foi forjado pelos primeiros ferreiros do tempo",
+
+  "item.endrem.wither_eye": "Olho do Wither",
+  "item.endrem.wither_eye.description": "§7§oTestemunhou destruição. Talvez também tenha testemunhado o desaparecimento de suas coisas",
+
+  "item.endrem.guardian_eye": "Olho do Guardião",
+  "item.endrem.guardian_eye.description": "§7§oViu muitos guerreiros se afogarem nas profundezas do mar",
+
+  "item.endrem.cursed_eye": "Olho Amaldiçoado",
+  "item.endrem.cursed_eye.description": "§7§oUm artefato poderoso, mas destrutivo; os Piglins juraram protegê-lo ao custo de suas vidas",
+
+  "item.endrem.exotic_eye": "Olho Exótico",
+  "item.endrem.exotic_eye.description": "§7§oAqueles que seguiram este olho nunca mais foram vistos; rumores dizem que encontraram a grande cidade de Atlântida ou se perderam tentando",
+
+  "item.endrem.evil_eye": "Olho Mau",
+  "item.endrem.evil_eye.description": "§7§oUm talismã sagrado que supostamente protege seu dono do azar",
+
+  "item.endrem.undead_eye": "Olho Sombrio",
+  "item.endrem.undead_eye.description": "§7§oLembrança das vidas passadas daqueles que vivem na morte",
+
+  "item.endrem.cryptic_eye": "Olho Críptico",
+  "item.endrem.cryptic_eye.description": "§7§o§khttps://www.youtube.com/watch?v=dQw4w9WgXcQ", 
+
+  "item.endrem.corrupted_eye": "Olho Corrompido",
+  "item.endrem.corrupted_eye.description": "§7§oO olho de um rei ganancioso que desapareceu na solidão; a lenda diz que trará fortuna infinita ao seu dono",
+
+  "item.endrem.witch_eye": "Olho de Bruxa",
+  "item.endrem.witch_eye.description": "§7§oAcredita-se que esta pupila tenha visto as antigas receitas de poções que se perderam no tempo",
+
+  "item.endrem.witch_pupil": "Pupila de Bruxa",
+
+  "item.endrem.undead_soul": "Alma Sombria",
+
+  "block.endrem.ancient_portal_frame": "Moldura de Portal Antiga",
+
+  "block.endrem.ender_eye.throw_warning": "Este olho não sabe para onde ir",
+  "block.endrem.ender_eye.use_warning": "Este olho não quer ser usado",
+  "block.endrem.custom_eye.place": "Este olho não pode ser colocado",
+  "block.endrem.custom_eye.frame_has_eye": "Esta moldura já tem um olho",
+  "block.endrem.custom_eye.broken": "Este portal não está construído corretamente",
+
+
+  "itemGroup.endrem.endrem_tab": "End Remastered",
+
+  "block.portal_open_sound": "Som de Abertura do Portal",
+  "block.portal_open_sound.sub": "Abertura do Portal",
+
+  "advancements.main.root.title": "O Início de Uma Aventura",
+  "advancements.main.root.description": "Obtenha Seu Primeiro Olho",
+
+  "advancements.main.old_eye.title": "Buscador de Fortuna",
+  "advancements.main.old_eye.description": "Obtenha Seu Primeiro Olho Antigo",
+
+  "advancements.main.rogue_eye.title": "Bem-vindo à Selva",
+  "advancements.main.rogue_eye.description": "Obtenha Seu Primeiro Olho Ladino",
+
+  "advancements.main.nether_eye.title": "Olhe para o Desespero",
+  "advancements.main.nether_eye.description": "Obtenha Seu Primeiro Olho do Nether",
+
+  "advancements.main.cold_eye.title": "Um Olhar Gelado",
+  "advancements.main.cold_eye.description": "Obtenha Seu Primeiro Olho Frio",
+
+  "advancements.main.corrupted_eye.title": "Cubra-me de Esmeraldas",
+  "advancements.main.corrupted_eye.description": "Obtenha Seu Primeiro Olho Corrompido",
+
+  "advancements.main.magical_eye.title": "Feiticeiro Caído",
+  "advancements.main.magical_eye.description": "Obtenha Seu Primeiro Olho Mágico",
+
+  "advancements.main.black_eye.title": "Argh, Onde Está Meu Navio?",
+  "advancements.main.black_eye.description": "Obtenha Seu Primeiro Olho Negro",
+
+  "advancements.main.lost_eye.title": "Precisa de um Mapa?",
+  "advancements.main.lost_eye.description": "Obtenha Seu Primeiro Olho Perdido",
+
+  "advancements.main.wither_eye.title": "Quer Você Queira ou Não",
+  "advancements.main.wither_eye.description": "Obtenha Seu Primeiro Olho do Wither",
+
+  "advancements.main.guardian_eye.title": "Quem Está Guardando o Templo Agora?",
+  "advancements.main.guardian_eye.description": "Obtenha Seu Primeiro Olho do Guardião",
+
+  "advancements.main.cursed_eye.title": "Um Novo Protetor...",
+  "advancements.main.cursed_eye.description": "Obtenha Seu Primeiro Olho Amaldiçoado",
+
+  "advancements.main.witch_eye.title": "Doces ou Travessuras?",
+  "advancements.main.witch_eye.description": "Obtenha Seu Primeiro Olho de Bruxa",
+
+  "advancements.main.evil_eye.title": "Uma Verdadeira Bênção",
+  "advancements.main.evil_eye.description": "Obtenha Seu Primeiro Olho Mau",
+
+  "advancements.main.exotic_eye.title": "Onde Está Atlântida?",
+  "advancements.main.exotic_eye.description": "Obtenha Seu Primeiro Olho Exótico",
+
+  "advancements.main.undead_eye.title": "O Espelho da Alma",
+  "advancements.main.undead_eye.description": "Obtenha Seu Primeiro Olho Sombrio",
+
+  "advancements.main.cryptic_eye.title": "Paciência é o Caminho para a Sabedoria",
+  "advancements.main.cryptic_eye.description": "Obtenha Seu Primeiro Olho Críptico"
+}

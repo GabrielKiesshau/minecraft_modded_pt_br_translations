@@ -1,0 +1,48 @@
+{
+  "dynamiclights.midnightconfig.title": "Configuração de Luzes Dinâmicas",
+  "dynamiclights.midnightconfig.configure_ingame": "§dℹ Informação:§r§f Para configurar este pacote de dados por mundo,",
+  "dynamiclights.midnightconfig.configure_ingame2": "entre em um mundo e execute o comando §o/function dynamiclights:settings§r.",
+  "dynamiclights.midnightconfig.empty": "",
+  "dynamiclights.midnightconfig.global_settings": "§n§l-=- Configurações Globais -=-",
+  "dynamiclights.midnightconfig.info": "§dℹ Informação:§r§f Estas configurações serão aplicadas a todos os mundos globalmente.",
+  "dynamiclights.midnightconfig.info2": "Certifique-se de entrar novamente em qualquer mundo para que as configurações globais tenham efeito.",
+  "dynamiclights.midnightconfig.light": "§lHabilitar emissão de luz de...",
+  "dynamiclights.midnightconfig.empty2": "",
+  "dynamiclights.midnightconfig.additional_light": "§lHabilitar emissão de luz adicional de...",
+  "dynamiclights.midnightconfig.empty3": "",
+  "dynamiclights.midnightconfig.other": "§lOutros",
+
+  "dynamiclights.midnightconfig.enable": "Luzes Dinâmicas",
+  "dynamiclights.midnightconfig.enable.tooltip": "Habilitar Luzes Dinâmicas\nPadrão: §aSim§f",
+  "dynamiclights.midnightconfig.enable_on_fire": "Entidades em chamas",
+  "dynamiclights.midnightconfig.enable_on_fire.tooltip": "Padrão: §aSim§f",
+  "dynamiclights.midnightconfig.enable_glowing": "Entidades com o efeito de poção brilhante",
+  "dynamiclights.midnightconfig.enable_glowing.tooltip": "Padrão: §cNão§f",
+  "dynamiclights.midnightconfig.enable_ghast": "Ghasts prestes a disparar uma bola de fogo",
+  "dynamiclights.midnightconfig.enable_ghast.tooltip": "Padrão: §aSim§f",
+  "dynamiclights.midnightconfig.enable_enchanted_items": "Itens encantados",
+  "dynamiclights.midnightconfig.enable_enchanted_items.tooltip": "Padrão: §aSim§f\n§6⚠ Observação: Habilitar esta opção pode reduzir o desempenho de algumas fazendas de mobs.",
+  "dynamiclights.midnightconfig.enable_amethyst_trimmed": "Armadura com acabamento em ametista",
+  "dynamiclights.midnightconfig.enable_amethyst_trimmed.tooltip": "Padrão: §aSim§f\nSomente para Minecraft 1.20+",
+
+  "dynamiclights.midnightconfig.enable_fire_aspect": "Itens encantados com Aspecto de Fogo",
+  "dynamiclights.midnightconfig.enable_fire_aspect.tooltip": "Padrão: §aSim§f\n§6⚠ Observação: Habilitar esta opção pode reduzir o desempenho de algumas fazendas de mobs.",
+  "dynamiclights.midnightconfig.enable_riptide": "Tridentes encantados com Riptide dentro da água",
+  "dynamiclights.midnightconfig.enable_riptide.tooltip": "Padrão: §aSim§f\nSó funciona quando a Verificação de Sensibilidade à Água está habilitada.",
+  "dynamiclights.midnightconfig.enable_channeling": "Tridentes encantados com Focalização durante uma tempestade",
+  "dynamiclights.midnightconfig.enable_channeling.tooltip": "Padrão: §aSim§f",
+
+  "dynamiclights.midnightconfig.enable_water_sensitive": "Verificação de Sensibilidade à Água",
+  "dynamiclights.midnightconfig.enable_water_sensitive.tooltip": "Padrão: §aSim§f\nSe habilitado, itens sensíveis à água, como tochas, serão desligados dentro da água.",
+  "dynamiclights.midnightconfig.enable_sound": " └ Indícios Sonoros",
+  "dynamiclights.midnightconfig.enable_sound.tooltip": "Padrão: §aSim§f\nSe habilitado, sons serão tocados quando um item sensível à água é ligado ou desligado.",
+  "dynamiclights.midnightconfig.enable_rain_sensitive": " └ Verificação de Chuva",
+  "dynamiclights.midnightconfig.enable_rain_sensitive.tooltip": "Padrão: §aSim§f\nSe habilitado, tocar na chuva conta como estar dentro da água.\nSó tem efeito quando a Verificação de Sensibilidade à Água está habilitada.\nSomente para Minecraft 1.19.4+",
+
+  "dynamiclights.midnightconfig.enum.bool.WORLD": "§bEspecífico para o Mundo",
+  "dynamiclights.midnightconfig.enum.bool.YES": "§a[✔] Sim",
+  "dynamiclights.midnightconfig.enum.bool.NO": "§c[❌] Não",
+
+  "modmenu.summaryTranslation.dynamiclights": "Entidades e itens como tochas ou lanternas compatíveis emitem luz! Somente no servidor!",
+  "modmenu.donate": "Doar"
+}
