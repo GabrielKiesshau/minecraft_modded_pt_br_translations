@@ -1,0 +1,22 @@
+block.onlinedisplays.display=Display Online
+
+gui.onlinedisplays.apply=Aplicar
+gui.onlinedisplays.aspect=Proporção
+gui.onlinedisplays.local_file=Selecionar Arquivo Local...
+gui.onlinedisplays.select_file=Selecionar um arquivo
+gui.onlinedisplays.select=Selecionar
+gui.onlinedisplays.cancel=Cancelar
+gui.onlinedisplays.translate_x=Deslocamento (X)
+gui.onlinedisplays.translate_y=Deslocamento (Y)
+gui.onlinedisplays.translate_z=Deslocamento (Z)
+gui.onlinedisplays.rotate_x=Rotação (X)
+gui.onlinedisplays.rotate_y=Rotação (Y)
+gui.onlinedisplays.rotate_z=Rotação (Z)
+gui.onlinedisplays.scale_x=Escala (X)
+gui.onlinedisplays.scale_y=Escala (Y)
+gui.onlinedisplays.url=URL da Imagem
+gui.onlinedisplays.emissive=Alternar Emissivo
+
+info.onlinedisplays.emissive.true=Emissivo
+info.onlinedisplays.emissive.false=Não Emissivo
+info.onlinedisplays.no_access=Você não tem acesso para modificar este display.
