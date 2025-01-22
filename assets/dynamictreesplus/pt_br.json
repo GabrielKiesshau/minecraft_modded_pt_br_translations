@@ -1,0 +1,18 @@
+{
+  "block.dynamictreesplus.cactus_branch": "Cacto",
+  "block.dynamictreesplus.mushroom_branch": "Cogumelo",
+  "species.dynamictreesplus.saguaro_cactus": "Cacto Saguaro",
+  "species.dynamictreesplus.pillar_cactus": "Cacto Pilar",
+  "species.dynamictreesplus.pipe_cactus": "Cacto Tubo",
+  "species.dynamictreesplus.mega_cactus": "Mega Cacto",
+  "species.dynamictreesplus.red_mushroom": "Cogumelo Vermelho",
+  "species.dynamictreesplus.brown_mushroom": "Cogumelo Marrom",
+  "species.dynamictreesplus.mega_red_mushroom": "Mega Cogumelo Vermelho",
+  "species.dynamictreesplus.mega_brown_mushroom": "Mega Cogumelo Marrom",
+  "item.dynamictreesplus.saguaro_cactus_seed": "Fruta do Saguaro",
+  "item.dynamictreesplus.pillar_cactus_seed": "Semente do Cacto Pilar",
+  "item.dynamictreesplus.pipe_cactus_seed": "Semente do Cacto Tubo",
+  "item.dynamictreesplus.brown_mushroom_seed": "Chapéu de Cogumelo Marrom",
+  "item.dynamictreesplus.red_mushroom_seed": "Chapéu de Cogumelo Vermelho",
+  "item.dynamictreesplus.chorus_seed": "Semente de Chorus"
+}
